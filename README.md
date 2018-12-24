@@ -104,3 +104,78 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **Semi-supervised User Geolocation via Graph Convolutional Networks**
 *Afshin Rahimi, Trevor Cohn, Timothy Baldwin* ACL 2018 [paper](https://arxiv.org/pdf/1804.08049.pdf)
+
+#### Model-free reinforcement learning
+
+1. **Relational inductive bias for physical construction in humans and machines.**
+*Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.* CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
+
+1. **Relational Deep Reinforcement Learning.**
+*Vinicius Zambaldi, David Raposo, Adam Santoro, Victor Bapst, Yujia Li, Igor Babuschkin, Karl Tuyls, David Reichert, Timothy Lillicrap, Edward Lockhart, Murray Shanahan, Victoria Langston, Razvan Pascanu, Matthew Botvinick, Oriol Vinyals, Peter Battaglia.* 2018. [paper](https://arxiv.org/abs/1806.01830)
+
+#### Classical approaches to planning
+
+1. **Action Schema Networks: Generalised Policies with Deep Learning.**
+*Sam Toyer, Felipe Trevizan, Sylvie Thiébaux, Lexing Xie.* AAAI 2018. [paper](https://arxiv.org/abs/1709.04271)
+
+#### Combinatorial optimization
+
+1. **Neural Combinatorial Optimization with Reinforcement Learning.**
+*Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio.* 2016. [paper](https://arxiv.org/abs/1611.09940)
+
+1. **A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks.**
+*Alex Nowak, Soledad Villar, Afonso S. Bandeira, Joan Bruna.* PADL 2017. [paper](https://www.padl.ws/papers/Paper%2017.pdf)
+
+1. **Learning Combinatorial Optimization Algorithms over Graphs.**
+*Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina, Le Song.* NIPS 2017. [paper](https://arxiv.org/abs/1704.01665)
+
+1. **Attention Solves Your TSP, Approximately.**
+*Wouter Kool, Herke van Hoof, Max Welling.* 2018. [paper](https://arxiv.org/abs/1803.08475)
+
+#### Boolean satisfiability 
+
+1. **Learning a SAT Solver from Single-Bit Supervision.**
+*Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill.* 2018. [paper](https://arxiv.org/abs/1802.03685)
+
+#### Program representation and verification 
+
+1. **Learning to Represent Programs with Graphs.**
+*Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi.* ICLR 2018. [paper](https://arxiv.org/abs/1711.00740)
+
+1. **Gated Graph Sequence Neural Networks.**
+*Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel.* ICLR 2016. [paper](https://arxiv.org/abs/1511.05493)
+
+#### Modeling cellular automata and Turing machines 
+
+1. **Learning Graphical State Transitions.**
+*Daniel D. Johnson.* ICLR 2017. [paper](https://openreview.net/forum?id=HJ0NvFzxl)
+
+#### Performing inference in graphical models 
+
+1. **Inference in Probabilistic Graphical Models by Graph Neural Networks.**
+*KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow.* ICLR Workshop 2018. [paper](https://arxiv.org/abs/1803.07710)
+
+#### Building generative models of graphs 
+
+1. **Learning deep generative models of graphs.**
+*Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia.* ICLR Workshop 2018. [paper](https://arxiv.org/abs/1803.03324)
+
+1. **MolGAN: An implicit generative model for small molecular graphs.**
+*Nicola De Cao, Thomas Kipf.* 2018. [paper](https://arxiv.org/abs/1805.11973)
+
+1. **GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models.**
+*Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec.* ICML 2018. [paper](https://arxiv.org/abs/1802.08773)
+
+1. **NetGAN: Generating Graphs via Random Walks.**
+*Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
+
+1. **Adversarial Attack on Graph Structured Data.**
+*Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song.* ICML 2018. [paper](https://arxiv.org/abs/1806.02371)
+
+#### Unsupervised learning of graph embeddings 
+
+1. **Inductive Representation Learning on Large Graphs.**
+*William L. Hamilton, Rex Ying, Jure Leskovec.* NIPS 2017. [paper](https://arxiv.org/abs/1706.02216)
+
+1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**
+*Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
