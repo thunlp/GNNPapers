@@ -56,4 +56,44 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 #### Reasoning about knowledge graphs
 
+1. **Translating Embeddings for Modeling Multi-relational Data**
+*Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko* NIPS 2013. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
 
+1. **Representation learning for visual-relational knowledge graphs**
+*Daniel Oñoro-Rubio, Mathias Niepert, Alberto García-Durán, Roberto González, Roberto J. López-Sastre* 2017. [paper](https://arxiv.org/pdf/1709.02314.pdf)
+
+1. **Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**
+*Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto* IJCAI 2017. [paper](https://arxiv.org/pdf/1706.05674.pdf)
+
+1. **Representation Learning on Graphs with Jumping Knowledge Networks**
+*Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka* ICML 2018. [paper](https://arxiv.org/pdf/1806.03536.pdf)
+
+1. **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs**
+*Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang* CVPR 2018. [paper](https://arxiv.org/pdf/1711.06526.pdf)
+
+1. **Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams**
+*Daesik Kim, Youngjoon Yoo, Jeesoo Kim, Sangkuk Lee, Nojun Kwak* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kim_Dynamic_Graph_Generation_CVPR_2018_paper.pdf)
+
+1. **Deep Reasoning with Knowledge Graph for Social Relationship Understanding**
+*Zhouxia Wang, Tianshui Chen, Jimmy Ren, Weihao Yu, Hui Cheng, Liang Lin* IJCAI 2018. [paper](https://arxiv.org/pdf/1807.00504.pdf)
+
+1. **Constructing Narrative Event Evolutionary Graph for Script Event Prediction**
+*Zhongyang Li, Xiao Ding, Ting Liu* IJCAI 2018. [paper](https://arxiv.org/pdf/1805.05081.pdf)
+
+1. **Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering**
+*Daniil Sorokin, Iryna Gurevych* COLING 2018. [paper](https://arxiv.org/pdf/1808.04126.pdf)
+
+#### Predicting chemical properties of molecules
+
+1. **Convolutional networks on graphs for learning molecular fingerprints**
+*David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, Ryan P. Adams* NIPS 2015. [paper](https://arxiv.org/pdf/1509.09292.pdf)
+
+1. **Molecular Graph Convolutions: Moving Beyond Fingerprints**
+*Steven Kearnes, Kevin McCloskey, Marc Berndl, Vijay Pande, Patrick Riley* Journal of computer-aided molecular design 2016. [paper](https://arxiv.org/pdf/1603.00856.pdf)
+
+1. **Protein Interface Prediction using Graph Convolutional Networks**
+*Alex Fout, Jonathon Byrd, Basir Shariat, Asa Ben-Hur* NIPS 2017. [paper](http://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
+
+#### Predicting traffic on roads and spacial prediction
+
+1. 
