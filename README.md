@@ -96,4 +96,11 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 #### Predicting traffic on roads and spacial prediction
 
-1. 
+1. **Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**
+*Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang* 2018. [paper](https://arxiv.org/pdf/1802.07007.pdf)
+
+1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**
+*Bing Yu, Haoteng Yin, Zhanxing Zhu* IJCAI 2018 [paper](https://arxiv.org/pdf/1709.04875.pdf)
+
+1. **Semi-supervised User Geolocation via Graph Convolutional Networks**
+*Afshin Rahimi, Trevor Cohn, Timothy Baldwin* ACL 2018 [paper](https://arxiv.org/pdf/1804.08049.pdf)
