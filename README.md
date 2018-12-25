@@ -119,6 +119,44 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **3D Graph Neural Networks for RGBD Semantic Segmentation.**
 *Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun.* CVPR 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)
 
+#### Visual reasoning
+
+1. **Iterative Visual Reasoning Beyond Convolutions.**
+*Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta.* CVPR 2018. [paper](https://arxiv.org/pdf/1803.11189)
+
+1. **The More You Know: Using Knowledge Graphs for Image Classification.**
+*Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta.* CVPR 2017, [paper](https://arxiv.org/pdf/1612.04844)
+
+1. **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.**
+*Martin Simonovsky, Nikos Komodakis.* CVPR 2017. [paper](https://arxiv.org/pdf/1704.02901)
+
+1. **Situation Recognition with Graph Neural Networks.**
+*Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler.* ICCV 2017. [paper](https://arxiv.org/pdf/1708.04320)
+
+#### Text classification
+
+1. **Conversation Modeling on Reddit using a Graph-Structured LSTM.**
+*Vicky Zayats, Mari Ostendorf.* TACL 2018. [paper](https://arxiv.org/pdf/1704.02080)
+
+1. **Graph Convolutional Networks for Text Classification.**
+*Liang Yao, Chengsheng Mao, Yuan Luo.* AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
+
+#### Machine translation
+
+1. **Attention Is All You Need.**
+*Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.* NIPS 2017. [paper](https://arxiv.org/pdf/1706.03762)
+
+1. **Self-Attention with Relative Position Representations.**
+*Peter Shaw, Jakob Uszkoreit, Ashish Vaswani.* NAACL 2018. [paper](https://arxiv.org/pdf/1803.02155)
+
+1. **Hyperbolic Attention Networks.**
+*Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas* 2018. [paper](https://arxiv.org/pdf/1805.09786)
+
+1. **Effective Approaches to Attention-based Neural Machine Translation.**
+*Minh-Thang Luong, Hieu Pham, Christopher D. Manning.* EMNLP 2015. [paper](https://arxiv.org/pdf/1508.04025)
+
+1. **Graph Convolutional Encoders for Syntax-aware Neural Machine Translation.**
+*Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an.* EMNLP 2017. [paper](https://arxiv.org/pdf/1704.04675)
 
 #### Model-free reinforcement learning
 
