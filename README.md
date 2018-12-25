@@ -8,7 +8,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
 
 1. **Deep Learning on Graphs: A Survey.**
-*Ziwei Zhang, Peng Cui, Wenwu Zhu* 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
+*Ziwei Zhang, Peng Cui, Wenwu Zhu.* 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
 
 1. **Relational Inductive Biases, Deep Learning, and Graph Networks.**
 *Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan and others.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
