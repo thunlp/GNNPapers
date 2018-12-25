@@ -15,10 +15,11 @@
     <session id="933517142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="311" />
+          <entry key="md" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="311" />
+          <entry key="Markdown" value="331" />
         </counts>
       </usages-collector>
     </session>
@@ -49,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+              <first_editor relative-caret-position="405">
+                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -69,9 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-36" />
-    <option name="y" value="158" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="657" />
+    <option name="y" value="145" />
     <option name="width" value="1920" />
     <option name="height" value="794" />
   </component>
@@ -80,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,7 +124,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="184" width="1920" height="794" extended-state="0" />
+    <frame x="657" y="145" width="1920" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.030015798" />
@@ -152,8 +153,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <first_editor relative-caret-position="405">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           </first_editor>
           <second_editor />
         </state>
