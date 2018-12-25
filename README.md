@@ -100,10 +100,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang.* 2018. [paper](https://arxiv.org/pdf/1802.07007.pdf)
 
 1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.**
-*Bing Yu, Haoteng Yin, Zhanxing Zhu.* IJCAI 2018 [paper](https://arxiv.org/pdf/1709.04875.pdf)
+*Bing Yu, Haoteng Yin, Zhanxing Zhu.* IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf)
 
 1. **Semi-supervised User Geolocation via Graph Convolutional Networks.**
-*Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* ACL 2018 [paper](https://arxiv.org/pdf/1804.08049.pdf)
+*Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
 
 #### Classifying and segmenting videos, 3D meshes and point clouds
 
