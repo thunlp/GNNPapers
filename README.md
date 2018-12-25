@@ -179,3 +179,64 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**
 *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
+
+#### Linguistic trees
+
+1. **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.**
+*Kai Sheng Tai, Richard Socher, Christopher D. Manning.* ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1150)
+
+1. **Neural Module Networks.**
+*Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.* CVPR 2016. [paper](https://arxiv.org/pdf/1511.02799.pdf)
+
+1. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.**
+*Diego Marcheggiani, Ivan Titov.* EMNLP 2017. [paper](https://arxiv.org/abs/1703.04826)
+
+1. **Graph Convolutional Networks with Argument-Aware Pooling for Event Detection.**
+*Thien Huu Nguyen, Ralph Grishman.* AAAI 2018. [paper](http://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
+
+#### Matrix Completion
+
+1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.**
+*Federico Monti, Michael M. Bronstein, Xavier Bresson.* NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
+
+1. **Graph Convolutional Matrix Completion.**
+*Rianne van den Berg, Thomas N. Kipf, Max Welling.* 2017. [paper](https://arxiv.org/abs/1706.02263)
+
+#### Network Biology
+
+1. **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification.**
+*Sungmin Rhee, Seokjun Seo, Sun Kim.* IJCAI 2018. [paper](https://arxiv.org/abs/1711.05859)
+
+1. **Modeling polypharmacy side effects with graph convolutional networks.**
+*Marinka Zitnik, Monica Agrawal, Jure Leskovec.* ISMB 2018. [paper](https://arxiv.org/abs/1802.00543)
+
+#### Diffusion Inference
+
+1. **DeepInf: Modeling influence locality in large social networks.**
+*Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.* KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
+
+#### NLP with GNN
+
+1. **Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks.**
+*Diego Marcheggiani, Joost Bastings, Ivan Titov.* NAACL 2018. [paper](http://www.aclweb.org/anthology/N18-2078)
+
+1. **Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks.**
+*Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian, Daniel Gildea.* 2018. [paper](https://arxiv.org/abs/1809.02040)
+
+1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**
+*Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/abs/1809.10185)
+
+1. **N-ary relation extraction using graph state LSTM.**
+*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* EMNLP 18. [paper](https://arxiv.org/abs/1808.09101)
+
+1. **A Graph-to-Sequence Model for AMR-to-Text Generation.**
+*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* ACL 2018. [paper](https://arxiv.org/abs/1805.02473)
+
+1. **Cross-Sentence N-ary Relation Extraction with Graph LSTMs.**
+*Nanyun Peng, Hoifung Poon, Chris Quirk, Kristina Toutanova, Wen-tau Yih.* TACL. [paper](https://arxiv.org/abs/1708.03743)
+
+1. **Sentence-State LSTM for Text Representation.**
+*Yue Zhang, Qi Liu, Linfeng Song.*  ACL 2018. [paper](https://arxiv.org/abs/1805.02474)
+
+1. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures.**
+*Makoto Miwa, Mohit Bansal.* ACL 2016. [paper](https://arxiv.org/abs/1601.00770)
