@@ -4,14 +4,20 @@ GNN: graph neural network
 Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### Survey papers
+1. **Graph Neural Networks: A Review of Methods and Applications**
+*Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
+
+1. **Deep Learning on Graphs: A Survey**
+*Ziwei Zhang, Peng Cui, Wenwu Zhu* 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
+
 1. **Relational Inductive Biases, Deep Learning, and Graph Networks.**
 *Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan and others.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
 1. **Geometric Deep Learning: Going beyond Euclidean data.**
-*Bronstein, Michael M and Bruna, Joan and LeCun, Yann and Szlam, Arthur and Vandergheynst, Pierre.* IEEE Signal Processing Magazine 2017. [paper](https://arxiv.org/pdf/1611.08097.pdf)
+*Bronstein, Michael M and Bruna, Joan and LeCun, Yann and Szlam, Arthur and Vandergheynst, Pierre.* IEEE SPM 2017. [paper](https://arxiv.org/pdf/1611.08097.pdf)
 
 1. **Computational Capabilities of Graph Neural Networks.**
-*Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE Transactions on Neural Networks 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703190)
+*Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703190)
 
 1. **Neural Message Passing for Quantum Chemistry.**
 *Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.* 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
@@ -20,7 +26,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Wang, Xiaolong and Girshick, Ross and Gupta, Abhinav and He, Kaiming.* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
 1. **The Graph Neural Network Model.**
-*Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE Transactions on Neural Networks 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
+*Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
 
 ### Models
 
@@ -125,6 +131,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**
 *Jie Chen, Tengfei Ma, Cao Xiao.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.10247.pdf)
+
+1. **Adaptive Sampling Towards Fast Graph Representation Learning.**
+*Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.05343.pdf)
 
 ### Applications
 
@@ -383,3 +392,5 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures.**
 *Makoto Miwa, Mohit Bansal.* ACL 2016. [paper](https://arxiv.org/abs/1601.00770)
 
+1. **Learning Human-Object Interactions by Graph Parsing Neural Networks.**
+*Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu.* ECCV 2018. [paper](https://arxiv.org/pdf/1808.07962.pdf)
