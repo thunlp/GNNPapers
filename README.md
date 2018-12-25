@@ -5,166 +5,26 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### Survey papers
 1. **Relational Inductive Biases, Deep Learning, and Graph Networks.**
-*Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gulcehre, Francis Song, Andrew Ballard, Justin Gilmer, George Dahl, Ashish Vaswani, Kelsey Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matt Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
+*Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan and others.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
 1. **Geometric Deep Learning: Going beyond Euclidean data.**
-*Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst.*
-IEEE SPM 2017. [paper](https://arxiv.org/pdf/1611.08097.pdf)
+*Bronstein, Michael M and Bruna, Joan and LeCun, Yann and Szlam, Arthur and Vandergheynst, Pierre.* IEEE Signal Processing Magazine 2017. [paper](https://arxiv.org/pdf/1611.08097.pdf)
 
 1. **Computational Capabilities of Graph Neural Networks.**
-*Franco Scarselli, Marco Gori, Ah Chung Tsoi, Markus Hagenbuchner, Gabriele Monfardini.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703190)
+*Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE Transactions on Neural Networks 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703190)
 
 1. **Neural Message Passing for Quantum Chemistry.**
-*Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl.* 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
+*Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.* 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
 1. **Non-local Neural Networks.**
-*Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He.* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
+*Wang, Xiaolong and Girshick, Ross and Gupta, Abhinav and He, Kaiming.* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
 1. **The Graph Neural Network Model.**
-*Franco Scarselli, Marco Gori, Ah Chung Tsoi, Markus Hagenbuchner, Gabriele Monfardini.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
+*Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE Transactions on Neural Networks 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
 
 ### Models
 
-1. **A new model for learning in graph domains.**
-*Marco Gori, Gabriele Monfardini, Franco Scarselli.* IJCNN 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
-
-1. **Graph Neural Networks for Ranking Web Pages.**
-*Franco Scarselli, Sweah Liang Yong, Marco Gori, Markus Hagenbuchner, Ah Chung Tsoi, Marco Maggini.* WI 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/221158677_Graph_Neural_Networks_for_Ranking_Web_Pages/links/0c9605188cd5090ede000000/Graph-Neural-Networks-for-Ranking-Web-Pages.pdf)
-
-1. **Gated Graph Sequence Neural Networks.**
-*Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel.* ICLR 2016. [paper](https://arxiv.org/pdf/1511.05493.pdf)
-
-1. **Geometric deep learning on graphs and manifolds using mixture model cnns.**
-*Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodolà, Jan Svoboda, Michael M. Bronstein.* CVPR 2017. [paper](https://arxiv.org/pdf/1611.08402.pdf)
-
-1. **Spectral Networks and Locally Connected Networks on Graphs.**
-*Joan Bruna, Wojciech Zaremba, Arthur Szlam, Yann LeCun.* ICLR 2014. [paper](https://arxiv.org/pdf/1312.6203.pdf)
-
-1. **Deep Convolutional Networks on Graph-Structured Data.**
-*Mikael Henaff, Joan Bruna, Yann LeCun.* 2015. [paper](https://arxiv.org/pdf/1506.05163.pdf)
-
-1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.**
-*Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.* NIPS 2016. [paper](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf)
-
-1. **Learning Convolutional Neural Networks for Graphs.**
-*Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov.* ICML 2016. [paper](http://proceedings.mlr.press/v48/niepert16.pdf)
-
-1. **Semi-Supervised Classification with Graph Convolutional Networks.**
-*Thomas N. Kipf, Max Welling.* ICLR 2017. [paper](https://arxiv.org/pdf/1609.02907.pdf)
-
-1. **Graph Attention Networks.**
-*Petar Velickovic, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Lio, Yoshua Bengio.* ICLR 2018. [paper](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)
-
-1. **Deep Sets.**
-*Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakhutdinov, Alexander Smola.* NIPS 2017. [paper](https://arxiv.org/pdf/1703.06114.pdf)
-
-1. **Graph Partition Neural Networks for Semi-Supervised Classification.**
-*Renjie Liao, Marc Brockschmidt, Daniel Tarlow, Alexander L. Gaunt, Raquel Urtasun, Richard Zemel.* 2018. [paper](https://arxiv.org/pdf/1803.06272.pdf)
-
-1. **Covariant Compositional Networks For Learning Graphs.**
-*Risi Kondor, Hy Truong Son, Horace Pan, Brandon Anderson, Shubhendu Trivedi.* 2018. [paper](https://arxiv.org/pdf/1801.02144.pdf)
-
-1. **Modeling Relational Data with Graph Convolutional Networks.**
-*Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling.* ESWC 2018. [paper](https://arxiv.org/pdf/1703.06103.pdf)
-
-1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.**
-*Jianfei Chen, Jun Zhu, Le Song.* ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
-
-1. **Learning Steady-States of Iterative Algorithms over Graphs.**
-*Hanjun Dai, Zornitsa Kozareva, Bo Dai, Alex Smola, Le Song.* ICML 2018. [paper](http://proceedings.mlr.press/v80/dai18a/dai18a.pdf)
-
-1. **Deriving Neural Architectures from Sequence and Graph Kernels.**
-*Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola.* ICML 2017. [paper](https://arxiv.org/pdf/1705.09037.pdf)
-
-1. **Adaptive Graph Convolutional Neural Networks.**
-*Ruoyu Li, Sheng Wang, Feiyun Zhu, Junzhou Huang.* AAAI 2018. [paper](https://arxiv.org/pdf/1801.03226.pdf)
-
-1. **Graph-to-Sequence Learning using Gated Graph Neural Networks.**
-*Daniel Beck, Gholamreza Haffari, Trevor Cohn.* ACL 2018. [paper](https://arxiv.org/pdf/1806.09835.pdf)
-
-1. **Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning.**
-*Qimai Li, Zhichao Han, Xiao-Ming Wu.* AAAI 2018. [paper](https://arxiv.org/pdf/1801.07606.pdf)
-
-1. **Graphical-Based Learning Environments for Pattern Recognition.**
-*Franco Scarselli, Ah Chung Tsoi, Marco Gori, Markus Hagenbuchner.* SSPR/SPR 2004. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-540-27868-9_4.pdf)
-
-1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.**
-*Vincenzo Di Massa, Gabriele Monfardini, Lorenzo Sarti, Franco Scarselli, Marco Maggini, Marco Gori.* IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
-
-1. **Graph Neural Networks for Object Localization.**
-*Gabriele Monfardini, Vincenzo Di Massa, Franco Scarselli, Marco Gori.* ECAI 2006. [paper](http://ebooks.iospress.nl/volumearticle/2775)
-
-1. **Knowledge-Guided Recurrent Neural Network Learning for Task-Oriented Action Prediction.**
-*Liang Lin, Lili Huang, Tianshui Chen, Yukang Gan, Hui Cheng.* ICME 2017. [paper](https://arxiv.org/pdf/1707.04677.pdf)
-
-1. **Semantic Object Parsing with Graph LSTM.**
-*Xiaodan LiangXiaohui ShenJiashi FengLiang Lin, Shuicheng Yan.* ECCV 2016. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46448-0_8.pdf)
-
-1. **CelebrityNet: A Social Network Constructed from Large-Scale Online Celebrity Images.**
-*Li-Jia Li, David A. Shamma, Xiangnan Kong, Sina Jafarpour, Roelof Van Zwol, Xuanhui Wang.* TOMM 2015. [paper](https://dl.acm.org/ft_gateway.cfm?id=2801125&ftid=1615097&dwn=1&CFID=38275959&CFTOKEN=6938a464cf972252-DF065FDC-9FED-EB68-3528017EA04F0D29)
-
-1. **Inductive Representation Learning on Large Graphs.**
-*William L. Hamilton, Rex Ying, Jure Leskovec.* NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf)
-
-1. **Graph Classification using Structural Attention.**
-*John Boaz Lee, Ryan Rossi, Xiangnan Kong.* KDD 18. [paper](https://dl.acm.org/ft_gateway.cfm?id=3219980&ftid=1988883&dwn=1&CFID=38275959&CFTOKEN=6938a464cf972252-DF065FDC-9FED-EB68-3528017EA04F0D29)
-
-1. **Adversarial Attacks on Neural Networks for Graph Data.**
-*Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.* KDD 18. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
-
-1. **Large-Scale Learnable Graph Convolutional Networks.**
-*Hongyang Gao, Zhengyang Wang, Shuiwang Ji.* KDD 18. [paper](http://delivery.acm.org/10.1145/3220000/3219947/p1416-gao.pdf?ip=101.5.139.169&id=3219947&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706457_bb20316c7ce038aefb97afcf4ef9668b)
-
-1. **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing.**
-*Davide Bacciu, Federico Errica, Alessio Micheli.* ICML 2018. [paper](https://arxiv.org/pdf/1805.10636.pdf)
-
-1. **Diffusion-Convolutional Neural Networks.**
-*James Atwood, Don Towsley.* NIPS 2016. [paper](https://arxiv.org/pdf/1511.02136.pdf)
-
-1. **Neural networks for relational learning: an experimental comparison.**
-*Werner Uwents, Gabriele Monfardini, Hendrik Blockeel, Marco Gori, Franco Scarselli.* Machine Learning 2011. [paper](https://link.springer.com/content/pdf/10.1007%2Fs10994-010-5196-5.pdf)
-
-1. **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**
-*Jie Chen, Tengfei Ma, Cao Xiao.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.10247.pdf)
-
 ### Applications
-
-#### Visual scene understanding tasks
-
-1. **Discovering objects and their relations from entangled scene representations.**
-*David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia.* ICLR Workshop 2017. [paper](https://arxiv.org/pdf/1702.05068.pdf)
-
-1. **A simple neural network module for relational reasoning.**
-*Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap.* NIPS 2017. [paper](https://arxiv.org/pdf/1706.01427.pdf)
-
-1. **Attend, Infer, Repeat: Fast Scene Understanding with Generative Models.**
-*S. M. Ali Eslami, Nicolas Heess, Theophane Weber, Yuval Tassa, David Szepesvari, Koray Kavukcuoglu, Geoffrey E. Hinton.* NIPS 2016. [paper](https://arxiv.org/pdf/1603.08575.pdf)
-
-1. **Beyond Categories: The Visual Memex Model for Reasoning About Object Relationships.**
-*Tomasz Malisiewicz, Alyosha Efros.* NIPS 2009. [paper](http://papers.nips.cc/paper/3647-beyond-categories-the-visual-memex-model-for-reasoning-about-object-relationships.pdf)
-
-1. **Understanding Kin Relationships in a Photo.**
-*Siyu Xia, Ming Shao, Jiebo Luo, Yun Fu.* TMM 2012. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151163)
-
-1. **Graph-Structured Representations for Visual Question Answering.**
-*Damien Teney, Lingqiao Liu, Anton van den Hengel.* CVPR 2017. [paper](https://arxiv.org/pdf/1609.05600.pdf)
-
-1. **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition.**
-*Sijie Yan, Yuanjun Xiong, Dahua Lin.* AAAI 2018. [paper](https://arxiv.org/pdf/1801.07455.pdf)
-
-#### Few-shot learning
-
-1. **Few-Shot Learning with Graph Neural Networks.**
-*Victor Garcia, Joan Bruna.* ICLR 2018. [paper](https://arxiv.org/pdf/1711.04043.pdf)
-
-1. **The More You Know: Using Knowledge Graphs for Image Classification.**
-*Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta.* CVPR 2017. [paper](https://arxiv.org/pdf/1612.04844.pdf)
-
-1. **Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs.**
-*Xiaolong Wang, Yufei Ye, Abhinav Gupta.* CVPR 2018. [paper](https://arxiv.org/pdf/1803.08035.pdf)
-
-1. **Rethinking Knowledge Graph Propagation for Zero-Shot Learning.**
-*Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing.* 2018. [paper](https://arxiv.org/pdf/1805.11724.pdf)
 
 #### Dynamics of physical systems
 
@@ -297,6 +157,23 @@ IEEE SPM 2017. [paper](https://arxiv.org/pdf/1611.08097.pdf)
 
 1. **Graph Convolutional Encoders for Syntax-aware Neural Machine Translation.**
 *Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an.* EMNLP 2017. [paper](https://arxiv.org/pdf/1704.04675)
+
+#### Model-free or model-based continuous control
+
+1. **NerveNet: Learning Structured Policy with Graph Neural Networks.**
+*Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.* ICLR 2018. [paper](https://openreview.net/pdf?id=S1sqHMZCb)
+
+1. **Metacontrol for Adaptive Imagination-Based Optimization.**
+*Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia.* ICLR 2017. [paper](https://arxiv.org/pdf/1705.02670)
+
+1. **Learning model-based planning from scratch.**
+*Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, Peter Battaglia.* 2017. [paper](https://arxiv.org/pdf/1707.06170)
+
+1. **Graph networks as learnable physics engines for inference and control.**
+*Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia.* ICLR 2018. [paper](https://arxiv.org/pdf/1806.01242)
+
+1. **Structured Dialogue Policy with Graph Neural Networks.**
+*Lu Chen, Bowen Tan, Sishan Long and Kai Yu.* ICCL 2018. [paper](http://www.aclweb.org/anthology/C18-1107)
 
 #### Model-free reinforcement learning
 
