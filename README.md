@@ -105,6 +105,21 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Semi-supervised User Geolocation via Graph Convolutional Networks.**
 *Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* ACL 2018 [paper](https://arxiv.org/pdf/1804.08049.pdf)
 
+#### Classifying and segmenting videos, 3D meshes and point clouds
+
+1. **Dynamic Graph CNN for Learning on Point Clouds.**
+*Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon.* CVPR 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf)
+
+1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.**
+*Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas.* CVPR 2018. [paper](https://arxiv.org/pdf/1612.00593.pdf)
+
+1. **Geometric deep learning on graphs and manifolds using mixture model CNNs.**
+*Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodolà, Jan Svoboda, Michael M. Bronstein.* CVPR 2017. [paper](https://arxiv.org/pdf/1611.08402.pdf)
+
+1. **3D Graph Neural Networks for RGBD Semantic Segmentation.**
+*Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun.* CVPR 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)
+
+
 #### Model-free reinforcement learning
 
 1. **Relational inductive bias for physical construction in humans and machines.**
