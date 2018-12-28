@@ -394,3 +394,45 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **Learning Human-Object Interactions by Graph Parsing Neural Networks.**
 *Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu.* ECCV 2018. [paper](https://arxiv.org/pdf/1808.07962.pdf)
+
+1. **Multiple Events Extraction via Attention-based Graph Information Aggregation.**
+*Xiao Liu, Zhunchen Luo, Heyan Huang.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.09078.pdf)
+
+1. **Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.**
+*Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.* EMNLP 2018. [paper](http://www.aclweb.org/anthology/D18-1032)
+
+1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**
+*Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.10185)
+
+1. **Embedding Logical Queries on Knowledge Graphs.**
+*William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec.* NIPS 2018. [paper](http://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
+
+1. **Recurrent Relational Networks.**
+*Rasmus Palm, Ulrich Paquet, Ole Winther.* NIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
+
+1. **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.**
+*Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.* NIPS 2018. [paper](https://arxiv.org/pdf/1806.02473)
+
+1. **Mean-field theory of graph neural networks in graph partitioning.**
+*Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
+
+1. **Learning Conditioned Graph Structures for Interpretable Visual Question Answering.**
+*Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.* NIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
+
+1. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.**
+*Zhuwen Li, Qifeng Chen, Vladlen Koltun.* NIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
+
+1. **Symbolic Graph Reasoning Meets Convolutions.**
+*Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.* NIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
+
+1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.**
+*Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.* NIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
+
+1. **Adaptive Sampling Towards Fast Graph Representation Learning.**
+*Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NIPS 2018. [paper](http://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning.pdf)
+
+1. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.**
+*Bayesian Semi-supervised Learning with Graph Gaussian Processes.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
+
+1. **Structure-Aware Convolutional Neural Networks.**
+*Jianlong Chang, Jie Gu, Lingfeng Wang, GAOFENG MENG, SHIMING XIANG, Chunhong Pan.* NIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
