@@ -136,10 +136,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.05343.pdf)
 
 1. **Structure-Aware Convolutional Neural Networks.**
-*Jianlong Chang, Jie Gu, Lingfeng Wang, GAOFENG MENG, SHIMING XIANG, Chunhong Pan.* NIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
+*Jianlong Chang, Jie Gu, Lingfeng Wang, Gaofeng Meng, Shiming Xiang, Chunhong Pan.* NIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
 
 1. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.**
-*Bayesian Semi-supervised Learning with Graph Gaussian Processes.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
+*Yin Cheng Ng, Nicolò Colombo, Ricardo Silva.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
 
 1. **Mean-field theory of graph neural networks in graph partitioning.**
 *Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
@@ -434,7 +434,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.**
 *Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.* CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
 
-1. **Relation Networks for Object Detection.*
+1. **Relation Networks for Object Detection.**
 *Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
 
 1. **Learning Region features for Object Detection.**
