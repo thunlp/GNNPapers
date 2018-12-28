@@ -135,6 +135,15 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Adaptive Sampling Towards Fast Graph Representation Learning.**
 *Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.05343.pdf)
 
+1. **Structure-Aware Convolutional Neural Networks.**
+*Jianlong Chang, Jie Gu, Lingfeng Wang, GAOFENG MENG, SHIMING XIANG, Chunhong Pan.* NIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
+
+1. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.**
+*Bayesian Semi-supervised Learning with Graph Gaussian Processes.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
+
+1. **Mean-field theory of graph neural networks in graph partitioning.**
+*Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
+
 ### Applications
 
 1. **Discovering objects and their relations from entangled scene representations.**
@@ -404,17 +413,11 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**
 *Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.10185)
 
-1. **Embedding Logical Queries on Knowledge Graphs.**
-*William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec.* NIPS 2018. [paper](http://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
-
 1. **Recurrent Relational Networks.**
 *Rasmus Palm, Ulrich Paquet, Ole Winther.* NIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
 
 1. **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.**
 *Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.* NIPS 2018. [paper](https://arxiv.org/pdf/1806.02473)
-
-1. **Mean-field theory of graph neural networks in graph partitioning.**
-*Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
 
 1. **Learning Conditioned Graph Structures for Interpretable Visual Question Answering.**
 *Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.* NIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
@@ -428,11 +431,11 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.**
 *Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.* NIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
 
-1. **Adaptive Sampling Towards Fast Graph Representation Learning.**
-*Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NIPS 2018. [paper](http://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning.pdf)
+1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.**
+*Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.* CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
 
-1. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.**
-*Bayesian Semi-supervised Learning with Graph Gaussian Processes.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
+1. **Relation Networks for Object Detection.*
+*Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
 
-1. **Structure-Aware Convolutional Neural Networks.**
-*Jianlong Chang, Jie Gu, Lingfeng Wang, GAOFENG MENG, SHIMING XIANG, Chunhong Pan.* NIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
+1. **Learning Region features for Object Detection.**
+*Jiayuan Gu, Han Hu, Liwei Wang, Yichen Wei, Jifeng Dai.* ECCV 2018. [paper](https://arxiv.org/pdf/1803.07066)
