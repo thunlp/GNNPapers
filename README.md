@@ -133,16 +133,16 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Jie Chen, Tengfei Ma, Cao Xiao.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.10247.pdf)
 
 1. **Adaptive Sampling Towards Fast Graph Representation Learning.**
-*Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.05343.pdf)
+*Wenbing Huang, Tong Zhang, Yu Rong, Junzhou Huang.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1809.05343.pdf)
 
 1. **Structure-Aware Convolutional Neural Networks.**
-*Jianlong Chang, Jie Gu, Lingfeng Wang, Gaofeng Meng, Shiming Xiang, Chunhong Pan.* NIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
+*Jianlong Chang, Jie Gu, Lingfeng Wang, Gaofeng Meng, Shiming Xiang, Chunhong Pan.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7287-structure-aware-convolutional-neural-networks.pdf)
 
 1. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.**
-*Yin Cheng Ng, Nicolò Colombo, Ricardo Silva.* NIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
+*Yin Cheng Ng, Nicolò Colombo, Ricardo Silva.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
 
 1. **Mean-field theory of graph neural networks in graph partitioning.**
-*Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
+*Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
 
 ### Applications
 
@@ -414,22 +414,22 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.10185)
 
 1. **Recurrent Relational Networks.**
-*Rasmus Palm, Ulrich Paquet, Ole Winther.* NIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
+*Rasmus Palm, Ulrich Paquet, Ole Winther.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
 
 1. **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.**
-*Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.* NIPS 2018. [paper](https://arxiv.org/pdf/1806.02473)
+*Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.02473)
 
 1. **Learning Conditioned Graph Structures for Interpretable Visual Question Answering.**
-*Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.* NIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
+*Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
 
 1. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.**
-*Zhuwen Li, Qifeng Chen, Vladlen Koltun.* NIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
+*Zhuwen Li, Qifeng Chen, Vladlen Koltun.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
 
 1. **Symbolic Graph Reasoning Meets Convolutions.**
-*Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.* NIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
+*Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
 
 1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.**
-*Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.* NIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
+*Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
 
 1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.**
 *Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.* CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
