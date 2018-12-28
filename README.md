@@ -434,6 +434,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.**
 *Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
 
+1. **Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.**
+*Tengfei Ma, Jie Chen, Cao Xiao.* NeurIPS 2018. [paper](https://papers.nips.cc/paper/7942-constrained-generation-of-semantically-valid-graphs-via-regularizing-variational-autoencoders.pdf)
+
 1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.**
 *Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.* CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
 
