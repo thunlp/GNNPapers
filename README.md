@@ -144,6 +144,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Mean-field theory of graph neural networks in graph partitioning.**
 *Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7689-mean-field-theory-of-graph-neural-networks-in-graph-partitioning.pdf)
 
+1. **Hierarchical Graph Representation Learning with Differentiable Pooling.**
+*Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton, Jure Leskovec* NeurIPS 2018. [paper](https://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
+
 ### Applications
 
 1. **Discovering objects and their relations from entangled scene representations.**
