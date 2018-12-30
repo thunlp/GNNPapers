@@ -447,7 +447,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Jiayuan Gu, Han Hu, Liwei Wang, Yichen Wei, Jifeng Dai.* ECCV 2018. [paper](https://arxiv.org/pdf/1803.07066)
 
 1. **Deep Graph Infomax.**
-*Veličković P, Fedus W, Hamilton W L, et al.* ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
+*Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
 
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
-*Klicpera J, Bojchevski A, Günnemann S.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
+*Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
