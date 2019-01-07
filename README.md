@@ -451,3 +451,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
 *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
+
+1. **How Powerful are Graph Neural Networks?**
+*Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka* ICLR 2019. [paper](https://openreview.net/pdf?id=ryGs6iA5Km)
