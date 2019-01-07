@@ -7,6 +7,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Graph Neural Networks: A Review of Methods and Applications.**
 *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
 
+1. **A Comprehensive Survey on Graph Neural Networks.**
+*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
+
 1. **Deep Learning on Graphs: A Survey.**
 *Ziwei Zhang, Peng Cui, Wenwu Zhu.* 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
 
@@ -27,9 +30,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **The Graph Neural Network Model.**
 *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
-
-1. **A Comprehensive Survey on Graph Neural Networks.**
-*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
 
 
 ### Models
