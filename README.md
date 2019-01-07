@@ -151,6 +151,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Hierarchical Graph Representation Learning with Differentiable Pooling.**
 *Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton, Jure Leskovec.* NeurIPS 2018. [paper](https://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
 
+1. **How Powerful are Graph Neural Networks?**
+*Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.* ICLR 2019. [paper](https://openreview.net/pdf?id=ryGs6iA5Km)
+
 ### Applications
 
 1. **Discovering objects and their relations from entangled scene representations.**
@@ -456,5 +459,4 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
 *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
 
-1. **How Powerful are Graph Neural Networks?**
-*Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka* ICLR 2019. [paper](https://openreview.net/pdf?id=ryGs6iA5Km)
+
