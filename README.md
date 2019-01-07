@@ -28,6 +28,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **The Graph Neural Network Model.**
 *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
 
+1. **A Comprehensive Survey on Graph Neural Networks.**
+*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
+
+
 ### Models
 
 1. **A new model for learning in graph domains.**
