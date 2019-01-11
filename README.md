@@ -154,6 +154,12 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **How Powerful are Graph Neural Networks?**
 *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.* ICLR 2019. [paper](https://openreview.net/pdf?id=ryGs6iA5Km)
 
+1. **Graph Capsule Convolutional Neural Networks.**
+*Saurabh Verma, Zhi-Li Zhang.* ICML 2018 Workshop. [paper](https://arxiv.org/abs/1805.08090)
+
+1. **Capsule Graph Neural Network.**
+*Zhang Xinyi, Lihui Chen.* ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
+
 ### Applications
 
 1. **Discovering objects and their relations from entangled scene representations.**
