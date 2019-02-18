@@ -160,6 +160,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Capsule Graph Neural Network.**
 *Zhang Xinyi, Lihui Chen.* ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
 
+1. **Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks.**
+*Katsuhiko Ishiguro, Shin-ichi Maeda, Masanori Koyama.* 2019. [paper](https://arxiv.org/abs/1902.01020)
+
 ### Applications
 
 1. **Discovering objects and their relations from entangled scene representations.**
@@ -465,4 +468,8 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
 *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
 
+1. **Sample Complexity Bounds for Recurrent Neural Networks with Application to Combinatorial Graph Problems.**
+*Nil-Jana Akpinar, Bernhard Kratzwald, Stefan Feuerriegel.* 2019. [paper](https://arxiv.org/abs/1901.10289)
 
+1. **A Study on Graph-Structured Recurrent Neural Networks and Sparsification with Application to Epidemic Forecasting.**
+*Zhijian Li, Xiyang Luo, Bao Wang, Andrea L. Bertozzi, Jack Xin.* 2019. [paper](https://arxiv.org/abs/1902.05113)
