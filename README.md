@@ -161,7 +161,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Zhang Xinyi, Lihui Chen.* ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
 
 1. **Can GCNs Go as Deep as CNNs?.**
-*Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem.* 2019. [paper](https://arxiv.org/abs/1904.03751)
+*Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem.* 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf)
 
 ### Applications
 
