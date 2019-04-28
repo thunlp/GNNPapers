@@ -163,8 +163,8 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Can GCNs Go as Deep as CNNs?.**
 *Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem.* 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf)
 
-1. **Heterogeneous Graph Attention Network**
-*Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye* WWW2019. [paper](https://arxiv.org/pdf/1903.07293.pdf)
+1. **Heterogeneous Graph Attention Network.**
+*Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye.* WWW 2019. [paper](https://arxiv.org/pdf/1903.07293.pdf)
 
 ### Applications
 
