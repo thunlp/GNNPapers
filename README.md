@@ -471,4 +471,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
 *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
 
+1. **Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph.**
+*Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.*  IJCAI 2019. [paper](https://arxiv.org/pdf/1905.04042.pdf)
 
