@@ -4,8 +4,9 @@ GNN: graph neural network
 Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### Survey papers
-1. **Graph Neural Networks: A Review of Methods and Applications.**
-*Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
+1. **Graph Neural Networks: A Review of Methods and Applications.** 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
+    
+    *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
 
 1. **A Comprehensive Survey on Graph Neural Networks.**
 *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
