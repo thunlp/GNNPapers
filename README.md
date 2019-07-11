@@ -302,62 +302,81 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     
     *Bing Yu, Haoteng Yin, Zhanxing Zhu.* 
 
-1. **Semi-supervised User Geolocation via Graph Convolutional Networks.**
-*Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
+1. **Semi-supervised User Geolocation via Graph Convolutional Networks.** ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
 
-1. **Dynamic Graph CNN for Learning on Point Clouds.**
-*Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon.* CVPR 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf)
+    *Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* 
 
-1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.**
-*Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas.* CVPR 2018. [paper](https://arxiv.org/pdf/1612.00593.pdf)
+1. **Dynamic Graph CNN for Learning on Point Clouds.** CVPR 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf)
 
-1. **3D Graph Neural Networks for RGBD Semantic Segmentation.**
-*Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun.* CVPR 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)
+    *Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon.* 
 
-1. **Iterative Visual Reasoning Beyond Convolutions.**
-*Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta.* CVPR 2018. [paper](https://arxiv.org/pdf/1803.11189)
+1. **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.** CVPR 2018. [paper](https://arxiv.org/pdf/1612.00593.pdf)
+    
+    *Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas.* 
 
-1. **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.**
-*Martin Simonovsky, Nikos Komodakis.* CVPR 2017. [paper](https://arxiv.org/pdf/1704.02901)
+1. **3D Graph Neural Networks for RGBD Semantic Segmentation.** CVPR 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)
 
-1. **Situation Recognition with Graph Neural Networks.**
-*Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler.* ICCV 2017. [paper](https://arxiv.org/pdf/1708.04320)
+    *Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun.* 
 
-1. **Conversation Modeling on Reddit using a Graph-Structured LSTM.**
-*Vicky Zayats, Mari Ostendorf.* TACL 2018. [paper](https://arxiv.org/pdf/1704.02080)
+1. **Iterative Visual Reasoning Beyond Convolutions.** CVPR 2018. [paper](https://arxiv.org/pdf/1803.11189)
 
-1. **Graph Convolutional Networks for Text Classification.**
-*Liang Yao, Chengsheng Mao, Yuan Luo.* AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
+    *Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta.* 
 
-1. **Attention Is All You Need.**
-*Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.* NIPS 2017. [paper](https://arxiv.org/pdf/1706.03762)
+1. **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.** CVPR 2017. [paper](https://arxiv.org/pdf/1704.02901)
 
-1. **Self-Attention with Relative Position Representations.**
-*Peter Shaw, Jakob Uszkoreit, Ashish Vaswani.* NAACL 2018. [paper](https://arxiv.org/pdf/1803.02155)
+    *Martin Simonovsky, Nikos Komodakis.* 
 
-1. **Hyperbolic Attention Networks.**
-*Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas* 2018. [paper](https://arxiv.org/pdf/1805.09786)
+1. **Situation Recognition with Graph Neural Networks.** ICCV 2017. [paper](https://arxiv.org/pdf/1708.04320)
 
-1. **Effective Approaches to Attention-based Neural Machine Translation.**
-*Minh-Thang Luong, Hieu Pham, Christopher D. Manning.* EMNLP 2015. [paper](https://arxiv.org/pdf/1508.04025)
+    *Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler.* 
 
-1. **Graph Convolutional Encoders for Syntax-aware Neural Machine Translation.**
-*Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an.* EMNLP 2017. [paper](https://arxiv.org/pdf/1704.04675)
+1. **Conversation Modeling on Reddit using a Graph-Structured LSTM.** TACL 2018. [paper](https://arxiv.org/pdf/1704.02080)
 
-1. **NerveNet: Learning Structured Policy with Graph Neural Networks.**
-*Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.* ICLR 2018. [paper](https://openreview.net/pdf?id=S1sqHMZCb)
+    *Vicky Zayats, Mari Ostendorf.* 
 
-1. **Metacontrol for Adaptive Imagination-Based Optimization.**
-*Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia.* ICLR 2017. [paper](https://arxiv.org/pdf/1705.02670)
+1. **Graph Convolutional Networks for Text Classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
 
-1. **Learning model-based planning from scratch.**
-*Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, Peter Battaglia.* 2017. [paper](https://arxiv.org/pdf/1707.06170)
+    *Liang Yao, Chengsheng Mao, Yuan Luo.* 
 
-1. **Structured Dialogue Policy with Graph Neural Networks.**
-*Lu Chen, Bowen Tan, Sishan Long and Kai Yu.* ICCL 2018. [paper](http://www.aclweb.org/anthology/C18-1107)
+1. **Attention Is All You Need.** NIPS 2017. [paper](https://arxiv.org/pdf/1706.03762)
 
-1. **Relational inductive bias for physical construction in humans and machines.**
-*Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.* CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
+    *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.* 
+
+1. **Self-Attention with Relative Position Representations.** NAACL 2018. [paper](https://arxiv.org/pdf/1803.02155)
+
+    *Peter Shaw, Jakob Uszkoreit, Ashish Vaswani.* 
+
+1. **Hyperbolic Attention Networks.** arxiv 2018. [paper](https://arxiv.org/pdf/1805.09786)
+
+    *Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas*
+
+1. **Effective Approaches to Attention-based Neural Machine Translation.** EMNLP 2015. [paper](https://arxiv.org/pdf/1508.04025)
+
+    *Minh-Thang Luong, Hieu Pham, Christopher D. Manning.* 
+
+1. **Graph Convolutional Encoders for Syntax-aware Neural Machine Translation.** EMNLP 2017. [paper](https://arxiv.org/pdf/1704.04675)
+
+    *Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an.* 
+
+1. **NerveNet: Learning Structured Policy with Graph Neural Networks.** ICLR 2018. [paper](https://openreview.net/pdf?id=S1sqHMZCb)
+
+    *Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler.* 
+    
+1. **Metacontrol for Adaptive Imagination-Based Optimization.** ICLR 2017. [paper](https://arxiv.org/pdf/1705.02670)
+
+    *Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia.* 
+
+1. **Learning model-based planning from scratch.** arxiv 2017. [paper](https://arxiv.org/pdf/1707.06170)
+
+    *Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert, Théophane Weber, Daan Wierstra, Peter Battaglia.* 
+
+1. **Structured Dialogue Policy with Graph Neural Networks.** ICCL 2018. [paper](http://www.aclweb.org/anthology/C18-1107)
+
+    *Lu Chen, Bowen Tan, Sishan Long and Kai Yu.* 
+    
+1. **Relational inductive bias for physical construction in humans and machines.** CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
+
+    *Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.* 
 
 1. **Relational Deep Reinforcement Learning.**
 *Vinicius Zambaldi, David Raposo, Adam Santoro, Victor Bapst, Yujia Li, Igor Babuschkin, Karl Tuyls, David Reichert, Timothy Lillicrap, Edward Lockhart, Murray Shanahan, Victoria Langston, Razvan Pascanu, Matthew Botvinick, Oriol Vinyals, Peter Battaglia.* 2018. [paper](https://arxiv.org/abs/1806.01830)
