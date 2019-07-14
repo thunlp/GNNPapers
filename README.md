@@ -36,6 +36,12 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### Models
 
+#### Graph Types
+
+#### Propagation Types
+
+#### Edge Types
+
 1. **A new model for learning in graph domains.**
 *Marco Gori, Gabriele Monfardini, Franco Scarselli.* IJCNN 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
 
@@ -169,6 +175,26 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye.* WWW 2019. [paper](https://arxiv.org/pdf/1903.07293.pdf)
 
 ### Applications
+
+#### Structrual Scenarios
+
+##### Physics
+
+##### Chemistry and Biology
+
+##### Knowledge Graph
+
+#### Non-structural Scenarios
+
+##### Image
+
+##### Text
+
+#### Other Scenarios
+
+##### Generative Models
+
+##### Combinatorial Optimization
 
 1. **Discovering objects and their relations from entangled scene representations.** ICLR Workshop 2017. [paper](https://arxiv.org/pdf/1702.05068.pdf)
 
