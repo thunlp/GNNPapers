@@ -151,15 +151,15 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *William L. Hamilton, Rex Ying, Jure Leskovec.*
     
-1. **Graph Classification using Structural Attention.** KDD 18. [paper](https://dl.acm.org/ft_gateway.cfm?id=3219980&ftid=1988883&dwn=1&CFID=38275959&CFTOKEN=6938a464cf972252-DF065FDC-9FED-EB68-3528017EA04F0D29)
+1. **Graph Classification using Structural Attention.** KDD 2018. [paper](https://dl.acm.org/ft_gateway.cfm?id=3219980&ftid=1988883&dwn=1&CFID=38275959&CFTOKEN=6938a464cf972252-DF065FDC-9FED-EB68-3528017EA04F0D29)
 
     *John Boaz Lee, Ryan Rossi, Xiangnan Kong.* 
     
-1. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 18. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
+1. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
 
     *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*
     
-1. **Large-Scale Learnable Graph Convolutional Networks.** KDD 18. [paper](http://delivery.acm.org/10.1145/3220000/3219947/p1416-gao.pdf?ip=101.5.139.169&id=3219947&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706457_bb20316c7ce038aefb97afcf4ef9668b)
+1. **Large-Scale Learnable Graph Convolutional Networks.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3220000/3219947/p1416-gao.pdf?ip=101.5.139.169&id=3219947&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706457_bb20316c7ce038aefb97afcf4ef9668b)
 
     *Hongyang Gao, Zhengyang Wang, Shuiwang Ji.*
     
@@ -273,7 +273,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Michael B. Chang, Tomer Ullman, Antonio Torralba, Joshua B. Tenenbaum.* 
     
-1. **Visual Interaction Networks: Learning a Physics Simulator from Vide.o** NIPS 2017. [paper](http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf)
+1. **Visual Interaction Networks: Learning a Physics Simulator from Video.** NIPS 2017. [paper](http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf)
 
     *Nicholas Watters, Andrea Tacchetti, Théophane Weber, Razvan Pascanu, Peter Battaglia, Daniel Zoran.* 
 
@@ -514,7 +514,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/abs/1809.10185)
 
 1. **N-ary relation extraction using graph state LSTM.**
-*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* EMNLP 18. [paper](https://arxiv.org/abs/1808.09101)
+*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* EMNLP 2018. [paper](https://arxiv.org/abs/1808.09101)
 
 1. **A Graph-to-Sequence Model for AMR-to-Text Generation.**
 *Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* ACL 2018. [paper](https://arxiv.org/abs/1805.02473)
