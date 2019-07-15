@@ -7,19 +7,19 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 | Section | Description |
 |-|-|
-| [Survey](#survey-papers) | | 
-| [Models](#models) | |
-| [Applications](#applications) | |
-| [Physics](#physics) | |
-| [Chemistry and Biology](#chemistry-and-biology) | |
-| [Knowledge Graph](#knowledge-graph) | |
-| [Computer Vision](#computer-vision) | |
-| [Natural Language Processing](#natural-language-processing) | |
-| [Generation](#generation) | |
-| [Combinatorial Optimization](#combinatorial-optimization) | |
+| [1. Survey](#survey-papers) | | 
+| [2. Models](#models) | |
+| [3. Applications](#applications) | |
+| [3.1 Physics](#physics) | |
+| [3.2 Chemistry and Biology](#chemistry-and-biology) | |
+| [3.3 Knowledge Graph](#knowledge-graph) | |
+| [3.4 Computer Vision](#computer-vision) | |
+| [3.5 Natural Language Processing](#natural-language-processing) | |
+| [3.6 Generation](#generation) | |
+| [3.7 Combinatorial Optimization](#combinatorial-optimization) | |
 
 
-## Survey papers
+## [Survey papers](#content)
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
     
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
@@ -57,7 +57,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
 
 
-## Models
+## [Models](#content)
 
 1. **A new model for learning in graph domains.** IJCNN 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
 
@@ -235,7 +235,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye.*
     
-## Applications
+## [Applications](#content)
 
 1. **Discovering objects and their relations from entangled scene representations.** ICLR Workshop 2017. [paper](https://arxiv.org/pdf/1702.05068.pdf)
 
@@ -595,16 +595,16 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph.**
 *Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.*  IJCAI 2019. [paper](https://arxiv.org/pdf/1905.04042.pdf)
 
-### Physics
+### [Physics](#content)
 
-### Chemistry and Biology
+### [Chemistry and Biology](#content)
 
-### Knowledge Graph
+### [Knowledge Graph](#content)
 
-### Computer Vision
+### [Computer Vision](#content)
 
-### Natural Language Processing
+### [Natural Language Processing](#content)
 
-### Generation
+### [Generation](#content)
 
-### Combinatorial Optimization
+### [Combinatorial Optimization](#content)
