@@ -3,20 +3,20 @@ GNN: graph neural network
 
 Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
-## Content
+## [Content](#content)
 
-| Section | Description |
-|-|-|
-| [1. Survey](#survey-papers) | | 
-| [2. Models](#models) | |
-| [3. Applications](#applications) | |
-| [3.1 Physics](#physics) | |
-| [3.2 Chemistry and Biology](#chemistry-and-biology) | |
-| [3.3 Knowledge Graph](#knowledge-graph) | |
-| [3.4 Computer Vision](#computer-vision) | |
-| [3.5 Natural Language Processing](#natural-language-processing) | |
-| [3.6 Generation](#generation) | |
-| [3.7 Combinatorial Optimization](#combinatorial-optimization) | |
+| Section |
+|-|
+| [1. Survey](#survey-papers) |  
+| [2. Models](#models) | 
+| [3. Applications](#applications) | 
+| [3.1 Physics](#physics) | 
+| [3.2 Chemistry and Biology](#chemistry-and-biology) | 
+| [3.3 Knowledge Graph](#knowledge-graph) | 
+| [3.4 Computer Vision](#computer-vision) | 
+| [3.5 Natural Language Processing](#natural-language-processing) | 
+| [3.6 Generation](#generation) | 
+| [3.7 Combinatorial Optimization](#combinatorial-optimization) | 
 
 
 ## [Survey papers](#content)
