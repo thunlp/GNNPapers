@@ -7,9 +7,17 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 | Section | Description |
 |-|-|
-| [Survey](#survey) | | 
+| [Survey](#survey-papers) | | 
 | [Models](#models) | |
 | [Applications](#applications) | |
+| [Physics](#physics) | |
+| [Chemistry and Biology](#chemistry-and-biology) | |
+| [Knowledge Graph](#knowledge-graph) | |
+| [Computer Vision](#computer-vision) | |
+| [Natural Language Processing](#natural-language-processing) | |
+| [Generation](#generation) | |
+| [Combinatorial Optimization](#combinatorial-optimization) | |
+
 
 ## Survey papers
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
@@ -587,3 +595,16 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph.**
 *Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.*  IJCAI 2019. [paper](https://arxiv.org/pdf/1905.04042.pdf)
 
+### Physics
+
+### Chemistry and Biology
+
+### Knowledge Graph
+
+### Computer Vision
+
+### Natural Language Processing
+
+### Generation
+
+### Combinatorial Optimization
