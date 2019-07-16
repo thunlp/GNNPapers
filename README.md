@@ -13,10 +13,12 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [3.1 Physics](#physics) | 
 | [3.2 Chemistry and Biology](#chemistry-and-biology) | 
 | [3.3 Knowledge Graph](#knowledge-graph) | 
-| [3.4 Computer Vision](#computer-vision) | 
-| [3.5 Natural Language Processing](#natural-language-processing) | 
-| [3.6 Generation](#generation) | 
-| [3.7 Combinatorial Optimization](#combinatorial-optimization) | 
+| [3.4 Recommender Systems](#recommender-systems) |
+| [3.5 Computer Vision](#computer-vision) | 
+| [3.6 Natural Language Processing](#natural-language-processing) | 
+| [3.7 Generation](#generation) | 
+| [3.8 Combinatorial Optimization](#combinatorial-optimization) | 
+| [3.9 Adversarial Attack](#adversarial-attack)|
 
 
 ## [Survey papers](#content)
@@ -235,6 +237,35 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye.*
     
+1. **Topology Optimization based Graph Convolutional Network.** IJCAI 2019. [paper](https://yangliang.github.io/pdf/ijcai19_to.pdf)
+
+    *Liang Yang, Zesheng Kang, Xiaochun Cao, Di Jin, Bo Yang, Yuanfang Guo.*
+    
+1. **SPAGAN: Shortest Path Graph Attention Network.** IJCAI 2019. [paper](https://cse.buffalo.edu/~jsyuan/papers/2019/SPAGAN_Shortest_Path_Graph_Attention_Network.pdf)
+
+    *Yiding Yang, Xinchao Wang, Mingli Song, Junsong Yuan, Dacheng Tao.*
+    
+1. **Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification.** IJCAI 2019. [paper](https://arxiv.org/pdf/1902.06667.pdf)
+
+    *Fenyu Hu, Yanqiao Zhu, Shu Wu, Liang Wang, Tieniu Tan.*
+    
+1. **Masked Graph Convolutional Network.** IJCAI 2019. [paper](https://yangliang.github.io/pdf/ijcai19_mask.pdf)
+
+    *Liang Yang, Fan Wu, Yingkui Wang, Junhua Gu, Yuanfang Guo.*
+    
+1. **Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology.** IJCAI 2019. [paper](https://yangliang.github.io/pdf/ijcai19_paced.pdf)
+
+    *Liang Yang, Zhiyang Chen, Junhua Gu, Yuanfang Guo.*    
+    
+1. **ActiveHNE: Active Heterogeneous Network Embedding.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.05659.pdf)
+    
+    *Xia Chen, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Zhao Li, Xiangliang Zhang.*
+    
+1. **GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1902.09817.pdf)
+
+    *Ziyao Li, Liang Zhang, Guojie Song*
+ 
+
 ## [Applications](#content)
 
 1. **Discovering objects and their relations from entangled scene representations.** ICLR Workshop 2017. [paper](https://arxiv.org/pdf/1702.05068.pdf)
@@ -439,7 +470,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 1. **Structured Dialogue Policy with Graph Neural Networks.** ICCL 2018. [paper](http://www.aclweb.org/anthology/C18-1107)
 
-    *Lu Chen, Bowen Tan, Sishan Long and Kai Yu.* 
+    *Lu Chen, Bowen Tan, Sishan Long, Kai Yu.* 
     
 1. **Relational inductive bias for physical construction in humans and machines.** CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
 
@@ -601,6 +632,12 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### [Knowledge Graph](#content)
 
+### [Recommender Systems](#content)
+
+1. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.13129.pdf)
+
+    *Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King.*
+
 ### [Computer Vision](#content)
 
 ### [Natural Language Processing](#content)
@@ -608,3 +645,13 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 ### [Generation](#content)
 
 ### [Combinatorial Optimization](#content)
+
+### [Adversarial Attack](#content)
+
+1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.** IJCAI 2019. [paper](https://arxiv.org/pdf/1903.01610.pdf)
+
+    *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*
+    
+1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.04214.pdf)
+
+    *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*
