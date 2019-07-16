@@ -50,6 +50,11 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
     *Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.*
+=======
+
+
+1. **A new model for learning in graph domains.**
+*Marco Gori, Gabriele Monfardini, Franco Scarselli.* IJCNN 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
 
 1. **Non-local Neural Networks.** CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
@@ -276,6 +281,26 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     
 
 ## [Applications](#content)
+
+#### Structrual Scenarios
+
+##### Physics
+
+##### Chemistry and Biology
+
+##### Knowledge Graph
+
+#### Non-structural Scenarios
+
+##### Image
+
+##### Text
+
+#### Other Scenarios
+
+##### Generative Models
+
+##### Combinatorial Optimization
 
 1. **Discovering objects and their relations from entangled scene representations.** ICLR Workshop 2017. [paper](https://arxiv.org/pdf/1702.05068.pdf)
 
