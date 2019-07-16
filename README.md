@@ -10,15 +10,16 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [1. Survey](#survey-papers) |  
 | [2. Models](#models) | 
 | [3. Applications](#applications) | 
-| [3.1 Physics](#physics) | 
-| [3.2 Chemistry and Biology](#chemistry-and-biology) | 
-| [3.3 Knowledge Graph](#knowledge-graph) | 
-| [3.4 Recommender Systems](#recommender-systems) |
-| [3.5 Computer Vision](#computer-vision) | 
-| [3.6 Natural Language Processing](#natural-language-processing) | 
-| [3.7 Generation](#generation) | 
-| [3.8 Combinatorial Optimization](#combinatorial-optimization) | 
-| [3.9 Adversarial Attack](#adversarial-attack)|
+| [Physics](#physics) | 
+| [Chemistry and Biology ](#chemistry-and-biology) | 
+| [Knowledge Graph](#knowledge-graph) | 
+| [Recommender Systems](#recommender-systems) |
+| [Computer Vision](#computer-vision) | 
+| [Natural Language Processing](#natural-language-processing) | 
+| [Generation](#generation) | 
+| [Combinatorial Optimization](#combinatorial-optimization) | 
+| [Adversarial Attack](#adversarial-attack) |
+| [Graph Clustering](#graph-clustring) |
 
 
 ## [Survey papers](#content)
@@ -263,8 +264,16 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     
 1. **GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1902.09817.pdf)
 
-    *Ziyao Li, Liang Zhang, Guojie Song*
- 
+    *Ziyao Li, Liang Zhang, Guojie Song.*
+    
+1. **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://shiruipan.github.io/pdf/IJCAI-19-graph-wavenet.pdf)
+
+    *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang.*
+    
+1. **A Degeneracy Framework for Scalable Graph Autoencoders.** IJCAI 2019. [paper](https://arxiv.org/pdf/1902.08813.pdf)
+
+    *Guillaume Salha, Romain Hennequin, Viet Anh Tran, Michalis Vazirgiannis.*
+    
 
 ## [Applications](#content)
 
@@ -630,6 +639,14 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### [Chemistry and Biology](#content)
 
+1. **MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.09558.pdf)
+
+    *Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, Junzhou Zhao.*
+    
+1. **Pre-training of Graph Augmented Transformers for Medication Recommendation.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.00346.pdf)
+
+    *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.*
+
 ### [Knowledge Graph](#content)
 
 ### [Recommender Systems](#content)
@@ -637,6 +654,11 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.13129.pdf)
 
     *Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King.*
+    
+1. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
+
+    *Haoyu Wang, Defu Lian, Yong Ge.*
+    
 
 ### [Computer Vision](#content)
 
@@ -655,3 +677,13 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.04214.pdf)
 
     *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*
+    
+### [Graph Clustering](#content)
+
+1. **Attributed Graph Clustering: A Deep Attentional Embedding Approach.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.06532.pdf)
+
+    *Chun Wang, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Chengqi Zhang.*
+    
+1. **Attributed Graph Clustering via Adaptive Graph Convolution.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.01210.pdf)
+
+    *Xiaotong Zhang, Han Liu, Qimai Li, Xiao-Ming Wu.*
