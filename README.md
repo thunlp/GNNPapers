@@ -19,7 +19,8 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [Generation](#generation) | 
 | [Combinatorial Optimization](#combinatorial-optimization) | 
 | [Adversarial Attack](#adversarial-attack) |
-| [Graph Clustering](#graph-clustring) |
+| [Graph Clustering](#graph-clustering) |
+| [Traffic Network](#traffic-network) |
 
 
 ## [Survey papers](#content)
@@ -273,7 +274,26 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **A Degeneracy Framework for Scalable Graph Autoencoders.** IJCAI 2019. [paper](https://arxiv.org/pdf/1902.08813.pdf)
 
     *Guillaume Salha, Romain Hennequin, Viet Anh Tran, Michalis Vazirgiannis.*
+
+1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1810.02244.pdf)    
+
+    *Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, Martin Grohe.*
     
+1. **Hypergraph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.09401.pdf)
+
+    *Yifan Feng, Haoxuan You, Zizhao Zhang, Rongrong Ji, Yue Gao.*
+    
+1. **GeniePath: Graph Neural Networks with Adaptive Receptive Paths.** AAAI 2019. [paper](https://arxiv.org/pdf/1802.00910.pdf)
+
+    *Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi.*
+    
+1. **Bayesian graph convolutional neural networks for semi-supervised classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.11103.pdf)
+
+    *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay.*
+    
+1. **Gaussian-Induced Convolution for Graphs.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.04393.pdf)
+
+    *Jiatao Jiang, Zhen Cui, Chunyan Xu, Jian Yang.*
 
 ## [Applications](#content)
 
@@ -440,10 +460,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Conversation Modeling on Reddit using a Graph-Structured LSTM.** TACL 2018. [paper](https://arxiv.org/pdf/1704.02080)
 
     *Vicky Zayats, Mari Ostendorf.* 
-
-1. **Graph Convolutional Networks for Text Classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
-
-    *Liang Yao, Chengsheng Mao, Yuan Luo.* 
 
 1. **Attention Is All You Need.** NIPS 2017. [paper](https://arxiv.org/pdf/1706.03762)
 
@@ -646,8 +662,24 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Pre-training of Graph Augmented Transformers for Medication Recommendation.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.00346.pdf)
 
     *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.*
+    
+1. **GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.01852.pdf)
+
+    *Junyuan Shang, Cao Xiao, Tengfei Ma, Hongyan Li, Jimeng Sun.*
+    
+1. **AffinityNet: semi-supervised few-shot learning for disease type prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1805.08905.pdf)
+
+    *Tianle Ma, Aidong Zhang.*
 
 ### [Knowledge Graph](#content)
+
+1. **End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.04441.pdf)
+
+    *Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, Bowen Zhou.*
+    
+1. **Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.01399.pdf)
+
+    *Peifeng Wang, Jialong Han, Chenliang Li, Rong Pan.*
 
 ### [Recommender Systems](#content)
 
@@ -659,14 +691,39 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Haoyu Wang, Defu Lian, Yong Ge.*
     
+1. **Session-based Recommendation with Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.00855.pdf)
+
+    *Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.*
+    
+1. **Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks.** AAAI 2019. [paper](https://jshang2.github.io/pubs/geo.pdf)
+
+    *Jin Shang, Mingxuan Sun.*
+    
 
 ### [Computer Vision](#content)
 
+1. **I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs.** AAAI 2019. [paper](http://nlpr-web.ia.ac.cn/mmc/homepage/jygao/JY_Gao_files/Conference_Papers/AAAI2019-GJY.pdf)
+    
+    *Junyu Gao, Tianzhu Zhang, Changsheng Xu.*
+    
+1. **Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition.** AAAI 2019. [paper](https://ecs.victoria.ac.nz/foswiki/pub/Groups/Graphics/RGB-DDataProcessingForRobotics/Graph%20CNNs%20with%20Motif%20and%20Variable%20Temporal%20Block%20for%20Skeleton-based%20Action%20Recognition.pdf)
+
+    *Yu-Hui Wen, Lin Gao, Hongbo Fu, Fang-Lue Zhang, Shihong Xia.*
+
 ### [Natural Language Processing](#content)
+
+1. **Graph Convolutional Networks for Text Classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
+
+    *Liang Yao, Chengsheng Mao, Yuan Luo.* 
 
 ### [Generation](#content)
 
 ### [Combinatorial Optimization](#content)
+
+1. **Learning to Solve NP-Complete Problems - A Graph Neural Network for Decision TSP
+.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf)
+
+    *Marcelo O. R. Prates, Pedro H. C. Avelar, Henrique Lemos, Luis Lamb, Moshe Vardi.*
 
 ### [Adversarial Attack](#content)
 
@@ -687,3 +744,13 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Attributed Graph Clustering via Adaptive Graph Convolution.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.01210.pdf)
 
     *Xiaotong Zhang, Han Liu, Qimai Li, Xiao-Ming Wu.*
+    
+### [Traffic Network](#content)
+
+1. **Spatiotemporal Multi‐Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
+
+    *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.*
+    
+1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://github.com/Davidham3/ASTGCN/blob/master/papers/2019%20AAAI_Attention%20Based%20Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Traffic%20Flow%20Forecasting.pdf)
+
+    *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan.*
