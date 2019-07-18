@@ -21,6 +21,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [Adversarial Attack](#adversarial-attack) |
 | [Graph Clustering](#graph-clustering) |
 | [Traffic Network](#traffic-network) |
+| [Few/Zero-shot Learning](#few/zero-shot-learning) |
 
 
 ## [Survey papers](#content)
@@ -294,6 +295,27 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Gaussian-Induced Convolution for Graphs.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.04393.pdf)
 
     *Jiatao Jiang, Zhen Cui, Chunyan Xu, Jian Yang.*
+    
+1. **Graph Learning-Convolutional Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1811.09971.pdf)
+
+    *Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang.*
+
+1. **Data Representation and Learning with Graph Diffusion-Embedding Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Data_Representation_and_Learning_With_Graph_Diffusion-Embedding_Networks_CVPR_2019_paper.pdf)
+
+    *Bo Jiang, Doudou Lin, Jin Tang, Bin Luo.*
+    
+1. **Label Efficient Semi-Supervised Learning via Graph Filtering.** CVPR 2019. [paper](https://arxiv.org/pdf/1901.09993.pdf)
+
+    *Qimai Li, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, Zhichao Guan.*
+    
+1. **Explainability Methods for Graph Convolutional Neural Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+
+    *Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann.*
+    
+1. **Exploiting Edge Features in Graph Neural Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1809.02709.pdf)
+
+    *Liyu Gong, Qiang Cheng.*
+
 
 ## [Applications](#content)
 
@@ -709,6 +731,46 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition.** AAAI 2019. [paper](https://ecs.victoria.ac.nz/foswiki/pub/Groups/Graphics/RGB-DDataProcessingForRobotics/Graph%20CNNs%20with%20Motif%20and%20Variable%20Temporal%20Block%20for%20Skeleton-based%20Action%20Recognition.pdf)
 
     *Yu-Hui Wen, Lin Gao, Hongbo Fu, Fang-Lue Zhang, Shihong Xia.*
+    
+1. **Multi-Label Image Recognition with Graph Convolutional Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1904.03582.pdf)
+
+    *Zhao-Min Chen, Xiu-Shen Wei, Peng Wang, Yanwen Guo.*
+    
+1. **Spatial-Aware Graph Relation Network for Large-Scale Object Detection.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Spatial-Aware_Graph_Relation_Network_for_Large-Scale_Object_Detection_CVPR_2019_paper.pdf)
+
+    *Hang Xu, Chenhan Jiang, Xiaodan Liang, Zhenguo Li.*
+    
+1. **GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)
+
+    *Xinhong Ma, Tianzhu Zhang, Changsheng Xu.*
+    
+1. **Mind Your Neighbours: Image Annotation With Metadata Neighbourhood Graph Co-Attention Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Mind_Your_Neighbours_Image_Annotation_With_Metadata_Neighbourhood_Graph_Co-Attention_CVPR_2019_paper.pdf)
+
+    *Junjie Zhang, Qi Wu, Jian Zhang, Chunhua Shen, Jianfeng Lu.*
+    
+1. **Attentive Relational Networks for Mapping Images to Scene Graphs.** CVPR 2019. [paper](https://arxiv.org/pdf/1811.10696.pdf)
+
+    *Mengshi Qi, Weijian Li, Zhengyuan Yang, Yunhong Wang, Jiebo Luo.*
+    
+1. **Knowledge-Embedded Routing Network for Scene Graph Generation.** CVPR 2019. [paper](https://arxiv.org/pdf/1903.03326.pdf)
+
+    *Tianshui Chen, Weihao Yu, Riquan Chen, Liang Lin.*
+    
+1. **Auto-Encoding Scene Graphs for Image Captioning.** CVPR 2019. [paper](https://arxiv.org/pdf/1812.02378.pdf)
+
+    *Xu Yang, Kaihua Tang, Hanwang Zhang, Jianfei Cai.*
+    
+1. **Learning to Cluster Faces on an Affinity Graph.** CVPR 2019. [paper](https://arxiv.org/pdf/1904.02749.pdf)
+
+    *Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin.*
+    
+1. **Learning a Deep ConvNet for Multi-label Classification with Partial Labels.** CVPR 2019. [paper](https://arxiv.org/pdf/1902.09720.pdf)
+
+    *Thibaut Durand, Nazanin Mehrasa, Greg Mori.*
+    
+1. **Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection.** CVPR 2019. [paper](https://arxiv.org/pdf/1903.07256.pdf)
+
+    *Jia-Xing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, Ge Li.*
 
 ### [Natural Language Processing](#content)
 
@@ -754,3 +816,19 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://github.com/Davidham3/ASTGCN/blob/master/papers/2019%20AAAI_Attention%20Based%20Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Traffic%20Flow%20Forecasting.pdf)
 
     *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan.*
+    
+### [Few/Zero-shot Learning](#content)
+
+1. **Rethinking Knowledge Graph Propagation for Zero-Shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1805.11724.pdf)
+    
+    *Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing.*
+
+1. **Edge-labeling Graph Neural Network for Few-shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1905.01436.pdf)
+
+    *Jongmin Kim, Taesup Kim, Sungwoong Kim, Chang D. Yoo.*
+    
+1. **Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1905.01102.pdf)
+
+    *Spyros Gidaris, Nikos Komodakis.*
+    
+    
