@@ -22,7 +22,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [Graph Clustering](#graph-clustering) |
 | [Traffic Network](#traffic-network) |
 | [Few-shot and Zero-shot Learning](#few-shot-and-zero-shot-learning) |
-
+| [Reinforcement Learning](#reinforcement-learning) |
+| [Planning](#planning) |
+| [Program Representation](#program-representation) |
+| [Social Network](#social-network) |
 
 ## [Survey papers](#content)
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
@@ -287,7 +290,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **GeniePath: Graph Neural Networks with Adaptive Receptive Paths.** AAAI 2019. [paper](https://arxiv.org/pdf/1802.00910.pdf)
 
     *Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi.*
-    
+
 1. **Bayesian graph convolutional neural networks for semi-supervised classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.11103.pdf)
 
     *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay.*
@@ -316,6 +319,17 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Liyu Gong, Qiang Cheng.*
 
+1. **Deep Graph Infomax.** ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
+
+    *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.*
+
+1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.** ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
+    
+    *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.*
+
+1. **Inference in Probabilistic Graphical Models by Graph Neural Networks.** ICLR Workshop 2018. [paper](https://arxiv.org/abs/1803.07710)
+
+    *KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow.*
 
 ## [Applications](#content)
 
@@ -518,162 +532,18 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Structured Dialogue Policy with Graph Neural Networks.** ICCL 2018. [paper](http://www.aclweb.org/anthology/C18-1107)
 
     *Lu Chen, Bowen Tan, Sishan Long, Kai Yu.* 
-    
-1. **Relational inductive bias for physical construction in humans and machines.** CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
-
-    *Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.* 
-
-1. **Relational Deep Reinforcement Learning.**
-*Vinicius Zambaldi, David Raposo, Adam Santoro, Victor Bapst, Yujia Li, Igor Babuschkin, Karl Tuyls, David Reichert, Timothy Lillicrap, Edward Lockhart, Murray Shanahan, Victoria Langston, Razvan Pascanu, Matthew Botvinick, Oriol Vinyals, Peter Battaglia.* 2018. [paper](https://arxiv.org/abs/1806.01830)
-
-1. **Action Schema Networks: Generalised Policies with Deep Learning.**
-*Sam Toyer, Felipe Trevizan, Sylvie Thiébaux, Lexing Xie.* AAAI 2018. [paper](https://arxiv.org/abs/1709.04271)
-
-1. **Neural Combinatorial Optimization with Reinforcement Learning.**
-*Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio.* 2016. [paper](https://arxiv.org/abs/1611.09940)
-
-1. **A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks.**
-*Alex Nowak, Soledad Villar, Afonso S. Bandeira, Joan Bruna.* PADL 2017. [paper](https://www.padl.ws/papers/Paper%2017.pdf)
-
-1. **Learning Combinatorial Optimization Algorithms over Graphs.**
-*Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina, Le Song.* NIPS 2017. [paper](https://arxiv.org/abs/1704.01665)
-
-1. **Attention Solves Your TSP, Approximately.**
-*Wouter Kool, Herke van Hoof, Max Welling.* 2018. [paper](https://arxiv.org/abs/1803.08475)
-
-1. **Learning a SAT Solver from Single-Bit Supervision.**
-*Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill.* 2018. [paper](https://arxiv.org/abs/1802.03685)
-
-1. **Learning to Represent Programs with Graphs.**
-*Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi.* ICLR 2018. [paper](https://arxiv.org/abs/1711.00740)
-
-1. **Learning Graphical State Transitions.**
-*Daniel D. Johnson.* ICLR 2017. [paper](https://openreview.net/forum?id=HJ0NvFzxl)
-
-1. **Inference in Probabilistic Graphical Models by Graph Neural Networks.**
-*KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow.* ICLR Workshop 2018. [paper](https://arxiv.org/abs/1803.07710)
-
-1. **Learning deep generative models of graphs.**
-*Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia.* ICLR Workshop 2018. [paper](https://arxiv.org/abs/1803.03324)
-
-1. **MolGAN: An implicit generative model for small molecular graphs.**
-*Nicola De Cao, Thomas Kipf.* 2018. [paper](https://arxiv.org/abs/1805.11973)
-
-1. **GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models.**
-*Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec.* ICML 2018. [paper](https://arxiv.org/abs/1802.08773)
-
-1. **NetGAN: Generating Graphs via Random Walks.**
-*Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
-
-1. **Adversarial Attack on Graph Structured Data.**
-*Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song.* ICML 2018. [paper](https://arxiv.org/abs/1806.02371)
-
-1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**
-*Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
-
-1. **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.**
-*Kai Sheng Tai, Richard Socher, Christopher D. Manning.* ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1150)
-
-1. **Neural Module Networks.**
-*Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.* CVPR 2016. [paper](https://arxiv.org/pdf/1511.02799.pdf)
-
-1. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.**
-*Diego Marcheggiani, Ivan Titov.* EMNLP 2017. [paper](https://arxiv.org/abs/1703.04826)
-
-1. **Graph Convolutional Networks with Argument-Aware Pooling for Event Detection.**
-*Thien Huu Nguyen, Ralph Grishman.* AAAI 2018. [paper](http://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
-
-1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.**
-*Federico Monti, Michael M. Bronstein, Xavier Bresson.* NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
-
-1. **Graph Convolutional Matrix Completion.**
-*Rianne van den Berg, Thomas N. Kipf, Max Welling.* 2017. [paper](https://arxiv.org/abs/1706.02263)
-
-1. **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification.**
-*Sungmin Rhee, Seokjun Seo, Sun Kim.* IJCAI 2018. [paper](https://arxiv.org/abs/1711.05859)
-
-1. **Modeling polypharmacy side effects with graph convolutional networks.**
-*Marinka Zitnik, Monica Agrawal, Jure Leskovec.* ISMB 2018. [paper](https://arxiv.org/abs/1802.00543)
-
-1. **DeepInf: Modeling influence locality in large social networks.**
-*Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.* KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
-
-1. **Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks.**
-*Diego Marcheggiani, Joost Bastings, Ivan Titov.* NAACL 2018. [paper](http://www.aclweb.org/anthology/N18-2078)
-
-1. **Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks.**
-*Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian, Daniel Gildea.* 2018. [paper](https://arxiv.org/abs/1809.02040)
-
-1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**
-*Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/abs/1809.10185)
-
-1. **N-ary relation extraction using graph state LSTM.**
-*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* EMNLP 2018. [paper](https://arxiv.org/abs/1808.09101)
-
-1. **A Graph-to-Sequence Model for AMR-to-Text Generation.**
-*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.* ACL 2018. [paper](https://arxiv.org/abs/1805.02473)
-
-1. **Cross-Sentence N-ary Relation Extraction with Graph LSTMs.**
-*Nanyun Peng, Hoifung Poon, Chris Quirk, Kristina Toutanova, Wen-tau Yih.* TACL. [paper](https://arxiv.org/abs/1708.03743)
-
-1. **Sentence-State LSTM for Text Representation.**
-*Yue Zhang, Qi Liu, Linfeng Song.*  ACL 2018. [paper](https://arxiv.org/abs/1805.02474)
-
-1. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures.**
-*Makoto Miwa, Mohit Bansal.* ACL 2016. [paper](https://arxiv.org/abs/1601.00770)
-
-1. **Learning Human-Object Interactions by Graph Parsing Neural Networks.**
-*Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu.* ECCV 2018. [paper](https://arxiv.org/pdf/1808.07962.pdf)
-
-1. **Multiple Events Extraction via Attention-based Graph Information Aggregation.**
-*Xiao Liu, Zhunchen Luo, Heyan Huang.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.09078.pdf)
-
-1. **Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.**
-*Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.* EMNLP 2018. [paper](http://www.aclweb.org/anthology/D18-1032)
-
-1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.**
-*Yuhao Zhang, Peng Qi, Christopher D. Manning.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.10185)
-
-1. **Recurrent Relational Networks.**
-*Rasmus Palm, Ulrich Paquet, Ole Winther.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
-
-1. **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.**
-*Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.02473)
-
-1. **Learning Conditioned Graph Structures for Interpretable Visual Question Answering.**
-*Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
-
-1. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.**
-*Zhuwen Li, Qifeng Chen, Vladlen Koltun.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
-
-1. **Symbolic Graph Reasoning Meets Convolutions.**
-*Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
-
-1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.**
-*Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.* NeurIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
-
-1. **Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.**
-*Tengfei Ma, Jie Chen, Cao Xiao.* NeurIPS 2018. [paper](https://papers.nips.cc/paper/7942-constrained-generation-of-semantically-valid-graphs-via-regularizing-variational-autoencoders.pdf)
-
-1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.**
-*Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.* CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
-
-1. **Relation Networks for Object Detection.**
-*Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.* CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
-
-1. **Learning Region features for Object Detection.**
-*Jiayuan Gu, Han Hu, Liwei Wang, Yichen Wei, Jifeng Dai.* ECCV 2018. [paper](https://arxiv.org/pdf/1803.07066)
-
-1. **Deep Graph Infomax.**
-*Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
-
-1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
-*Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
-
 
 ### [Physics](#content)
 
 ### [Chemistry and Biology](#content)
+
+1. **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification.** IJCAI 2018. [paper](https://arxiv.org/abs/1711.05859)
+
+    *Sungmin Rhee, Seokjun Seo, Sun Kim.*
+
+1. **Modeling polypharmacy side effects with graph convolutional networks.** ISMB 2018. [paper](https://arxiv.org/abs/1802.00543)
+
+    *Marinka Zitnik, Monica Agrawal, Jure Leskovec.*
 
 1. **MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.09558.pdf)
 
@@ -693,6 +563,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### [Knowledge Graph](#content)
 
+1. **Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks.** EMNLP 2018. [paper](http://www.aclweb.org/anthology/D18-1032)
+
+    *Zhichun Wang, Qingsong Lv, Xiaohan Lan, Yu Zhang.*
+
 1. **End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.04441.pdf)
 
     *Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, Bowen Zhou.*
@@ -702,6 +576,18 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     *Peifeng Wang, Jialong Han, Chenliang Li, Rong Pan.*
 
 ### [Recommender Systems](#content)
+
+1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
+
+    *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.*
+
+1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.** NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
+
+    *Federico Monti, Michael M. Bronstein, Xavier Bresson.*
+
+1. **Graph Convolutional Matrix Completion.** 2017. [paper](https://arxiv.org/abs/1706.02263)
+
+    *Rianne van den Berg, Thomas N. Kipf, Max Welling.*
 
 1. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.13129.pdf)
 
@@ -721,6 +607,34 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     
 
 ### [Computer Vision](#content)
+
+1. **Learning Human-Object Interactions by Graph Parsing Neural Networks.** ECCV 2018. [paper](https://arxiv.org/pdf/1808.07962.pdf)
+
+    *Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu.*
+
+1. **Learning Conditioned Graph Structures for Interpretable Visual Question Answering.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.07243)
+
+    *Will Norcliffe-Brown, Efstathios Vafeias, Sarah Parisot.*
+
+1. **Symbolic Graph Reasoning Meets Convolutions.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf)
+
+    *Xiaodan Liang, Zhiting Hu, Hao Zhang, Liang Lin, Eric P. Xing.*
+
+1. **Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf)
+
+    *Medhini Narasimhan, Svetlana Lazebnik, Alexander Schwing.*
+
+1. **Structural-RNN: Deep Learning on Spatio-Temporal Graphs.** CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
+
+    *Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena.*
+
+1. **Relation Networks for Object Detection.** CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
+
+    *Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.*
+
+1. **Learning Region features for Object Detection.** ECCV 2018. [paper](https://arxiv.org/pdf/1803.07066)
+
+    *Jiayuan Gu, Han Hu, Liwei Wang, Yichen Wei, Jifeng Dai.*
 
 1. **I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs.** AAAI 2019. [paper](http://nlpr-web.ia.ac.cn/mmc/homepage/jygao/JY_Gao_files/Conference_Papers/AAAI2019-GJY.pdf)
     
@@ -845,8 +759,68 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Skeleton-Based Action Recognition With Directed Graph Neural Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf)
 
     *Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu.*
+    
+1. **Neural Module Networks.** CVPR 2016. [paper](https://arxiv.org/pdf/1511.02799.pdf)
+    
+    *Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.*
 
 ### [Natural Language Processing](#content)
+
+1. **Learning Graphical State Transitions.** ICLR 2017. [paper](https://openreview.net/forum?id=HJ0NvFzxl)
+
+    *Daniel D. Johnson.*
+
+1. **Multiple Events Extraction via Attention-based Graph Information Aggregation.** EMNLP 2018. [paper](https://arxiv.org/pdf/1809.09078.pdf)
+
+    *Xiao Liu, Zhunchen Luo, Heyan Huang.*
+
+1. **Recurrent Relational Networks.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7597-recurrent-relational-networks.pdf)
+
+    *Rasmus Palm, Ulrich Paquet, Ole Winther.*
+
+1. **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.** ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1150)
+
+    *Kai Sheng Tai, Richard Socher, Christopher D. Manning.*
+
+1. **Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling.** EMNLP 2017. [paper](https://arxiv.org/abs/1703.04826)
+
+    *Diego Marcheggiani, Ivan Titov.*
+
+1. **Graph Convolutional Networks with Argument-Aware Pooling for Event Detection.** AAAI 2018. [paper](http://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
+
+    *Thien Huu Nguyen, Ralph Grishman.*
+
+1. **Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks.** NAACL 2018. [paper](http://www.aclweb.org/anthology/N18-2078)
+
+    *Diego Marcheggiani, Joost Bastings, Ivan Titov.*
+
+1. **Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks.** 2018. [paper](https://arxiv.org/abs/1809.02040)
+
+    *Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian, Daniel Gildea.*
+
+1. **Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.** EMNLP 2018. [paper](https://arxiv.org/abs/1809.10185)
+
+    *Yuhao Zhang, Peng Qi, Christopher D. Manning.*
+
+1. **N-ary relation extraction using graph state LSTM.** EMNLP 18. [paper](https://arxiv.org/abs/1808.09101)
+
+    *Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.*
+
+1. **A Graph-to-Sequence Model for AMR-to-Text Generation.** ACL 2018. [paper](https://arxiv.org/abs/1805.02473)
+
+    *Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.*
+
+1. **Cross-Sentence N-ary Relation Extraction with Graph LSTMs.** TACL. [paper](https://arxiv.org/abs/1708.03743)
+
+    *Nanyun Peng, Hoifung Poon, Chris Quirk, Kristina Toutanova, Wen-tau Yih.*
+
+1. **Sentence-State LSTM for Text Representation.** ACL 2018. [paper](https://arxiv.org/abs/1805.02474)
+
+    *Yue Zhang, Qi Liu, Linfeng Song.*
+
+1. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures.** ACL 2016. [paper](https://arxiv.org/abs/1601.00770)
+
+    *Makoto Miwa, Mohit Bansal.*
 
 1. **Graph Convolutional Networks for Text Classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
 
@@ -854,7 +828,51 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### [Generation](#content)
 
+1. **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1806.02473)
+
+    *Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec.*
+
+1. **Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.** NeurIPS 2018. [paper](https://papers.nips.cc/paper/7942-constrained-generation-of-semantically-valid-graphs-via-regularizing-variational-autoencoders.pdf)
+
+    *Tengfei Ma, Jie Chen, Cao Xiao.*
+
+1. **Learning deep generative models of graphs.** ICLR Workshop 2018. [paper](https://arxiv.org/abs/1803.03324)
+
+    *Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia.*
+
+1. **MolGAN: An implicit generative model for small molecular graphs.** 2018. [paper](https://arxiv.org/abs/1805.11973)
+
+    *Nicola De Cao, Thomas Kipf.*
+
+1. **GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models.** ICML 2018. [paper](https://arxiv.org/abs/1802.08773)
+
+    *Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec.*
+
+1. **NetGAN: Generating Graphs via Random Walks.** ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
+
+    *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.*
+
 ### [Combinatorial Optimization](#content)
+
+1. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
+
+    *Zhuwen Li, Qifeng Chen, Vladlen Koltun.*
+
+1. **Learning a SAT Solver from Single-Bit Supervision.** ICLR 2019. [paper](https://arxiv.org/abs/1802.03685)
+
+    *Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill.*
+
+1. **A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks.** PADL 2017. [paper](https://www.padl.ws/papers/Paper%2017.pdf)
+
+    *Alex Nowak, Soledad Villar, Afonso S. Bandeira, Joan Bruna.*
+
+1. **Learning Combinatorial Optimization Algorithms over Graphs.** NIPS 2017. [paper](https://arxiv.org/abs/1704.01665)
+
+    *Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina, Le Song.*
+
+1. **Attention Solves Your TSP, Approximately.** 2018. [paper](https://arxiv.org/abs/1803.08475)
+
+    *Wouter Kool, Herke van Hoof, Max Welling.*
 
 1. **Learning to Solve NP-Complete Problems - A Graph Neural Network for Decision TSP
 .** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf)
@@ -862,6 +880,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     *Marcelo O. R. Prates, Pedro H. C. Avelar, Henrique Lemos, Luis Lamb, Moshe Vardi.*
 
 ### [Adversarial Attack](#content)
+
+1. **Adversarial Attack on Graph Structured Data.** ICML 2018. [paper](https://arxiv.org/abs/1806.02371)
+
+    *Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song.*
 
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.** IJCAI 2019. [paper](https://arxiv.org/pdf/1903.01610.pdf)
 
@@ -909,4 +931,30 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Spyros Gidaris, Nikos Komodakis.*
     
-    
+### [Reinforcement Learning](#content)
+
+1. **Relational inductive bias for physical construction in humans and machines.** CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
+
+    *Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.*
+
+1. **Relational Deep Reinforcement Learning.** 2018. [paper](https://arxiv.org/abs/1806.01830)
+
+    *Vinicius Zambaldi, David Raposo, Adam Santoro, Victor Bapst, Yujia Li, Igor Babuschkin, Karl Tuyls, David Reichert, Timothy Lillicrap, Edward Lockhart, Murray Shanahan, Victoria Langston, Razvan Pascanu, Matthew Botvinick, Oriol Vinyals, Peter Battaglia.*
+
+### [Planning](#content)
+
+1. **Action Schema Networks: Generalised Policies with Deep Learning.** AAAI 2018. [paper](https://arxiv.org/abs/1709.04271)
+
+    *Sam Toyer, Felipe Trevizan, Sylvie Thiébaux, Lexing Xie.*
+
+### [Program Representation](#content)
+
+1. **Learning to Represent Programs with Graphs.** ICLR 2018. [paper](https://arxiv.org/abs/1711.00740)
+
+    *Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi.*
+
+### [Social Network](#content)
+
+1. **DeepInf: Social Influence Prediction with Deep Learning.** KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
+
+    *Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, Jie Tang.*
