@@ -51,7 +51,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
 
     *Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.*
-=======
 
 
 1. **A new model for learning in graph domains.**
