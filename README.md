@@ -284,7 +284,47 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Representation Learning on Graphs with Jumping Knowledge Networks.** ICML 2018. [paper](https://arxiv.org/pdf/1806.03536.pdf)
 
     *Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka.* 
+
+1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1810.02244.pdf)    
+
+    *Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, Martin Grohe.*
     
+1. **Hypergraph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.09401.pdf)
+
+    *Yifan Feng, Haoxuan You, Zizhao Zhang, Rongrong Ji, Yue Gao.*
+    
+1. **GeniePath: Graph Neural Networks with Adaptive Receptive Paths.** AAAI 2019. [paper](https://arxiv.org/pdf/1802.00910.pdf)
+
+    *Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi.*
+    
+1. **Bayesian graph convolutional neural networks for semi-supervised classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.11103.pdf)
+
+    *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay.*
+    
+1. **Gaussian-Induced Convolution for Graphs.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.04393.pdf)
+
+    *Jiatao Jiang, Zhen Cui, Chunyan Xu, Jian Yang.*
+    
+1. **Graph Learning-Convolutional Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1811.09971.pdf)
+
+    *Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang.*
+
+1. **Data Representation and Learning with Graph Diffusion-Embedding Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Data_Representation_and_Learning_With_Graph_Diffusion-Embedding_Networks_CVPR_2019_paper.pdf)
+
+    *Bo Jiang, Doudou Lin, Jin Tang, Bin Luo.*
+    
+1. **Label Efficient Semi-Supervised Learning via Graph Filtering.** CVPR 2019. [paper](https://arxiv.org/pdf/1901.09993.pdf)
+
+    *Qimai Li, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, Zhichao Guan.*
+    
+1. **Explainability Methods for Graph Convolutional Neural Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+
+    *Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann.*
+    
+1. **Exploiting Edge Features in Graph Neural Networks.** CVPR 2019. [paper](https://arxiv.org/pdf/1809.02709.pdf)
+
+    *Liyu Gong, Qiang Cheng.*
+
 
 ## [Applications](#content)
 
@@ -756,10 +796,10 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
 ### [Generation](#content)
 
+
 ### [Combinatorial Optimization](#content)
 
-1. **Learning to Solve NP-Complete Problems - A Graph Neural Network for Decision TSP
-.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf)
+1. **Learning to Solve NP-Complete Problems - A Graph Neural Network for Decision TSP.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf)
 
     *Marcelo O. R. Prates, Pedro H. C. Avelar, Henrique Lemos, Luis Lamb, Moshe Vardi.*
 
@@ -810,25 +850,18 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     
 1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://github.com/Davidham3/ASTGCN/blob/master/papers/2019%20AAAI_Attention%20Based%20Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Traffic%20Flow%20Forecasting.pdf)
 
-    *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan.*
-
+     *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan.*
+   
 1. **Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting.** arxiv 2018. [paper](https://arxiv.org/pdf/1802.07007.pdf)
 
-    *Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang.* 
+     *Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang.* 
 
-1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf)
-    
-    *Bing Yu, Haoteng Yin, Zhanxing Zhu.* 
-    
+
 ### [Few-shot and Zero-shot Learning](#content)
 
 1. **Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.04042.pdf)
 
-    *Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.*
-
-1. **Rethinking Knowledge Graph Propagation for Zero-Shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1805.11724.pdf)
-    
-    *Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing.*
+    *Xiaotong Zhang, Han Liu, Qimai Li, Xiao-Ming Wu.*
 
 1. **Edge-labeling Graph Neural Network for Few-shot Learning.** CVPR 2019. [paper](https://arxiv.org/pdf/1905.01436.pdf)
 
@@ -847,5 +880,5 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
     *Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing.* 
 
 1. **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs.** CVPR 2018. [paper](https://arxiv.org/pdf/1711.06526.pdf)
-
-    *Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang.* 
+    
+    
