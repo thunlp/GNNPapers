@@ -755,13 +755,13 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf)
 
     *Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu.*
-    
+
 1. **Skeleton-Based Action Recognition With Directed Graph Neural Networks.** CVPR 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf)
 
     *Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu.*
     
 1. **Neural Module Networks.** CVPR 2016. [paper](https://arxiv.org/pdf/1511.02799.pdf)
-    
+
     *Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.*
 
 ### [Natural Language Processing](#content)
