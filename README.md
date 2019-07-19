@@ -532,7 +532,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Structured Dialogue Policy with Graph Neural Networks.** ICCL 2018. [paper](http://www.aclweb.org/anthology/C18-1107)
 
     *Lu Chen, Bowen Tan, Sishan Long, Kai Yu.* 
-    
+
 ### [Physics](#content)
 
 ### [Chemistry and Biology](#content)
