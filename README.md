@@ -19,7 +19,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [Generation](#generation) | 
 | [Combinatorial Optimization](#combinatorial-optimization) | 
 | [Adversarial Attack](#adversarial-attack) |
-| [Graph Clustering](#graph-clustring) |
+| [Graph Clustering](#graph-clustering) |
 | [Reinforcement Learning](#reinforcement-learning) |
 
 
