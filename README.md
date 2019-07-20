@@ -866,10 +866,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Alex Nowak, Soledad Villar, Afonso S. Bandeira, Joan Bruna.*
 
-1. **Learning Combinatorial Optimization Algorithms over Graphs.** NIPS 2017. [paper](https://arxiv.org/abs/1704.01665)
-
-    *Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina, Le Song.*
-
 1. **Attention Solves Your TSP, Approximately.** 2018. [paper](https://arxiv.org/abs/1803.08475)
 
     *Wouter Kool, Herke van Hoof, Max Welling.*
