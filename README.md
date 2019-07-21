@@ -395,10 +395,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro.*
 
-1. **Graph Element Networks: adaptive, structured computation and memory.** ICML 2019. [paper](https://arxiv.org/pdf/1904.09019)
-
-    *Ferran Alet, Adarsh K. Jeewajee, Maria Bauza, Alberto Rodriguez, Tomas Lozano-Perez, Leslie Pack Kaelbling.*
-
 1. **Stochastic Blockmodels meet Graph Neural Networks.** ICML 2019. [paper](https://arxiv.org/pdf/1905.05738)
 
     *Nikhil Mehta, Lawrence Carin, Piyush Rai.*
@@ -406,14 +402,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing.** ICML 2019. [paper](https://arxiv.org/pdf/1905.00067)
 
     *Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Kristina Lerman, Hrayr Harutyunyan, Greg Ver Steeg, Aram Galstyan.*
-
-1. **How Powerful are Graph Neural Networks?.** ICLR 2019. [paper](https://arxiv.org/pdf/1810.00826)
-
-    *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*
-
-1. **Deep Graph Infomax.** ICLR 2019. [paper](https://arxiv.org/pdf/1809.10341)
-
-    *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.*
 
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
 
@@ -427,26 +415,13 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha.*
 
-1. **Capsule Graph Neural Network.** ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
-
-    *Zhang Xinyi, Lihui Chen.*
-
 1. **Graph Wavelet Neural Network.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1ewdiR5tQ)
 
     *Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng.*
 
-
 1. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1gL-2A9Ym)
 
     *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.*
-
-1. **Hyperbolic Attention Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=rJxHsjRqFQ)
-
-    *Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas.*
-
-1. **.** ICLR 2019. [paper]()
-
-    *.*
 
 
 ## [Applications](#content)
@@ -684,6 +659,11 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Neural Relational Inference for Interacting Systems.** ICML 2018. [paper](https://arxiv.org/pdf/1802.04687.pdf)
 
     *Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel.* 
+
+1. **Graph Element Networks: adaptive, structured computation and memory.** ICML 2019. [paper](https://arxiv.org/pdf/1904.09019)
+
+    *Ferran Alet, Adarsh K. Jeewajee, Maria Bauza, Alberto Rodriguez, Tomas Lozano-Perez, Leslie Pack Kaelbling.*
+
     
 ### [Chemistry and Biology](#content)
 
@@ -723,13 +703,9 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
     *Tianle Ma, Aidong Zhang.*
 
-1. **Graph Transformation Policy Network for Chemical Reaction Prediction** KDD 2019. [paper](https://arxiv.org/pdf/1812.09441)
+1. **Graph Transformation Policy Network for Chemical Reaction Prediction.** KDD 2019. [paper](https://arxiv.org/pdf/1812.09441)
 
-    *Kien Do, Truyen Tran, Svetha Venkatesh*
-
-1. **Distributed, Egocentric Representations of Graphs for Detecting Critical Structures.** ICML 2019. [paper](http://proceedings.mlr.press/v97/tzeng19a/tzeng19a.pdf)
-
-    *Ruo-Chun Tzeng, Shan-Hung Wu.*
+    *Kien Do, Truyen Tran, Svetha Venkatesh.*
 
 1. **Functional Transparency for Structured Data: a Game-Theoretic Approach.** ICML 2019. [paper](https://arxiv.org/pdf/1902.09737)
 
@@ -1179,10 +1155,6 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing.** ACL 2019. [paper](https://arxiv.org/pdf/1905.06241)
 
     *Ben Bogin, Matt Gardner, Jonathan Berant.*
-
-1. **The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers.** ACL 2019. [paper](https://arxiv.org/pdf/1905.12676)
-
-    *Agnieszka Falenska, Jonas Kuhn.*
 
 1. **Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model.** ACL 2019. [paper](https://arxiv.org/pdf/1906.01231)
 
