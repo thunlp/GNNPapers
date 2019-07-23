@@ -1,7 +1,7 @@
 # Must-read papers on GNN
 GNN: graph neural network
 
-Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
+Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 ## [Content](#content)
 
@@ -10,23 +10,23 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 | [1. Survey](#survey-papers) |  
 | [2. Models](#models) | 
 | [3. Applications](#applications) | 
-| [Physics](#physics) | 
-| [Chemistry and Biology ](#chemistry-and-biology) | 
-| [Knowledge Graph](#knowledge-graph) | 
-| [Recommender Systems](#recommender-systems) |
-| [Computer Vision](#computer-vision) | 
-| [Natural Language Processing](#natural-language-processing) | 
-| [Generation](#generation) | 
-| [Combinatorial Optimization](#combinatorial-optimization) | 
-| [Adversarial Attack](#adversarial-attack) |
-| [Graph Clustering](#graph-clustering) |
-| [Graph Classification](#graph-classification)|
-| [Reinforcement Learning](#reinforcement-learning) |
-| [Traffic Network](#traffic-network) |
-| [Few-shot and Zero-shot Learning](#few-shot-and-zero-shot-learning) |
-| [Planning](#planning) |
-| [Program Representation](#program-representation) |
-| [Social Network](#social-network) |
+| [3.1 Physics](#physics) | 
+| [3.2 Chemistry and Biology ](#chemistry-and-biology) | 
+| [3.3 Knowledge Graph](#knowledge-graph) | 
+| [3.4 Recommender Systems](#recommender-systems) |
+| [3.5 Computer Vision](#computer-vision) | 
+| [3.6 Natural Language Processing](#natural-language-processing) | 
+| [3.7 Generation](#generation) | 
+| [3.8 Combinatorial Optimization](#combinatorial-optimization) | 
+| [3.9 Adversarial Attack](#adversarial-attack) |
+| [3.10 Graph Clustering](#graph-clustering) |
+| [3.11 Graph Classification](#graph-classification)|
+| [3.12 Reinforcement Learning](#reinforcement-learning) |
+| [3.13 Traffic Network](#traffic-network) |
+| [3.14 Few-shot and Zero-shot Learning](#few-shot-and-zero-shot-learning) |
+| [3.15 Planning](#planning) |
+| [3.16 Program Representation](#program-representation) |
+| [3.17 Social Network](#social-network) |
 
 ## [Survey papers](#content)
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
