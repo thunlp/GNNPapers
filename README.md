@@ -6,7 +6,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers"><a href="">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-models">2.1 Basic Models</a></td>
