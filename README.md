@@ -4,33 +4,56 @@ GNN: graph neural network
 Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 ## [Content](#content)
-- [1. Survey](#survey-papers) 
-- [2. Models](#models)
-    - [2.1 Basic Models](#basic-models)
-    - [2.2 Graph Types](#graph-types)
-    - [2.3 Pooling Methods](#pooling-methods)
-    - [2.4 Analysis](#analysis)
-    - [2.5 Efficiency](#efficiency)
-- [3. Applications](#applications) 
-    - [3.1 Physics](#physics) 
-    - [3.2 Chemistry and Biology ](#chemistry-and-biology) 
-    - [3.3 Knowledge Graph](#knowledge-graph) 
-    - [3.4 Recommender Systems](#recommender-systems)
-    - [3.5 Computer Vision](#computer-vision) 
-    - [3.6 Natural Language Processing](#natural-language-processing) 
-    - [3.7 Generation](#generation) 
-    - [3.8 Combinatorial Optimization](#combinatorial-optimization) 
-    - [3.9 Adversarial Attack](#adversarial-attack)
-    - [3.10 Graph Clustering](#graph-clustering)
-    <details><summary> more </summary> 
 
-    - [3.11 Graph Classification](#graph-classification)
-    - [3.12 Reinforcement Learning](#reinforcement-learning)
-    - [3.13 Traffic Network](#traffic-network)
-    - [3.14 Few-shot and Zero-shot Learning](#few-shot-and-zero-shot-learning)
-    - [3.15 Program Representation](#program-representation)
-    - [3.16 Social Network](#social-network)
-    </details>
+<table>
+<tr><td colspan="2"><a href="#survey-papers"><a href="">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#basic-models">2.1 Basic Models</a></td>
+    <td><a href="#graph-types">2.2 Graph Types</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#pooling-methods">2.3 Pooling Methods</a></td>
+    <td><a href="#analysis">2.4 Analysis</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#efficiency">2.5 Efficiency</a></td>
+    <td></td>
+</tr>
+<tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
+<tr>
+    <td>&emsp;<a href="#physics">3.1 Physics</a></td>
+    <td><a href="#chemistry-and-biology">3.2 Chemistry and Biology</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
+    <td><a href="#recommender-systems">3.4 Recommender Systems</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#computer-vision">3.5 Computer Vision</a></td>
+    <td><a href="#natural-language-processing">3.6 Natural Language Processing</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#generation">3.7 Generation</a></td>
+    <td><a href="#combinatorial-optimization">3.8 Combinatorial Optimization</a></td>
+</tr> 
+<tr>
+    <td>&emsp;<a href="#adversarial-attack">3.9 Adversarial Attack</a></td>
+    <td><a href="#graph-clustering">3.10 Graph Clustering</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#graph-classification">3.11 Graph Classification</a></td>
+    <td><a href="#reinforcement-learning">3.12 Reinforcement Learning</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#traffic-network">3.13 Traffic Network</a></td>
+    <td><a href="#few-shot-and-zero-shot-learning">3.14 Few-shot and Zero-shot Learning</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#program-representation">3.15 Program Representation</a></td>
+    <td><a href="#social-network">3.16 Social Network</a></td>
+</tr> 
+</table>
 
 ## [Survey papers](#content)
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
