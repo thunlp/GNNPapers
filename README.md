@@ -505,21 +505,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Tianle Ma, Aidong Zhang.*
 
-1. **Graph Transformation Policy Network for Chemical Reaction Prediction.** KDD 2019. [paper](https://arxiv.org/pdf/1812.09441)
-
-    *Kien Do, Truyen Tran, Svetha Venkatesh.*
-
 1. **Functional Transparency for Structured Data: a Game-Theoretic Approach.** ICML 2019. [paper](https://arxiv.org/pdf/1902.09737)
 
     *Guang-He Lee, Wengong Jin, David Alvarez-Melis, Tommi S. Jaakkola.*
 
-1. **Learning Multimodal Graph-to-Graph Translation for Molecular Optimization.** ICLR 2019. [paper](https://openreview.net/pdf?id=B1xJAsA5F7)
-
-    *Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola.*
-
-1. **A Generative Model For Electron Paths.** ICLR 2019. [paper](https://openreview.net/pdf?id=r1x4BnCqKX)
-
-    *John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, José Miguel Hernández-Lobato.*
 
 ### [Knowledge Graph](#content)
 1. **Modeling Relational Data with Graph Convolutional Networks.** ESWC 2018. [paper](https://arxiv.org/pdf/1703.06103.pdf)
@@ -1071,6 +1060,22 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Generative Code Modeling with Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=Bke4KsA5FX)
 
     *Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov.*
+
+1. **Junction tree variational autoencoder for molecular graph generation.** ICML 2018. [paper](https://arxiv.org/pdf/1802.04364)
+
+    *Wengong Jin, Regina Barzilay, and Tommi Jaakkola.*
+
+1. **Learning Multimodal Graph-to-Graph Translation for Molecular Optimization.** ICLR 2019. [paper](https://openreview.net/pdf?id=B1xJAsA5F7)
+
+    *Wengong Jin, Kevin Yang, Regina Barzilay, Tommi Jaakkola.*
+
+1. **A Generative Model For Electron Paths.** ICLR 2019. [paper](https://openreview.net/pdf?id=r1x4BnCqKX)
+
+    *John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, José Miguel Hernández-Lobato.*
+
+1. **Graph Transformation Policy Network for Chemical Reaction Prediction.** KDD 2019. [paper](https://arxiv.org/pdf/1812.09441)
+
+    *Kien Do, Truyen Tran, Svetha Venkatesh.*
 
 ### [Combinatorial Optimization](#content)
 
