@@ -345,6 +345,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     
 
 ### [Pooling Methods](#content)
+1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
+
+    *Muhan Zhang, Zhicheng Cui, Marion Neumann, Yixin Chen.*
+
 1. **Hierarchical Graph Representation Learning with Differentiable Pooling.** NeurIPS 2018. [paper](https://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
 
     *Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton, Jure Leskovec.*
@@ -409,6 +413,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1810.02244.pdf)    
 
     *Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, Martin Grohe.*
+
+1. **Understanding Attention and Generalization in Graph Neural Networks.** NeurIPS 2019. [paper](https://arxiv.org/pdf/1905.02850.pdf)
+
+    *Boris Knyazev, Graham W. Taylor, Mohamed R. Amer.*
     
 ### [Efficiency](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
@@ -497,6 +505,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Modeling polypharmacy side effects with graph convolutional networks.** ISMB 2018. [paper](https://arxiv.org/abs/1802.00543)
 
     *Marinka Zitnik, Monica Agrawal, Jure Leskovec.*
+
+1. **Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules.** NeurIPS Workshop 2018. [paper](https://arxiv.org/pdf/1811.09595.pdf)
+
+    *Boris Knyazev, Xiao Lin, Mohamed R. Amer, Graham W. Taylor.*
 
 1. **MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.09558.pdf)
 
@@ -1280,6 +1292,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     *Milan Cvitkovic, Badal Singh, Anima Anandkumar.*
 
 ### [Social Network](#content)
+
+1. **Link Prediction Based on Graph Neural Networks.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf)
+    
+    *Muhan Zhang, Yixin Chen.*
 
 1. **DeepInf: Social Influence Prediction with Deep Learning.** KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
 
