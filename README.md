@@ -53,6 +53,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     <td>&emsp;<a href="#program-representation">3.15 Program Representation</a></td>
     <td>&ensp;<a href="#social-network">3.16 Social Network</a></td>
 </tr> 
+<tr>
+    <td>&emsp;<a href="#graph-matching">3.17 Graph Matching</a></td>
+    <td>&ensp;</td>
+</tr> 
 </table>
 
 ## [Survey papers](#content)
@@ -406,6 +410,59 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **A Multi­‐Scale Approach for Graph Link Prediction.** AAAI 2020. [paper]()
 
 	*Lei Cai, Shuiwang Ji.*
+
+1. **Adaptive Structural Fingerprints for Graph Attention Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJxWx0NYPr)
+
+	*Kai Zhang, Yaokang Zhu, Jun Wang, Jie Zhang.*
+
+1. **Strategies for Pre-training Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=HJlWWJSFDH)
+
+	*Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec.*
+
+1. **DropEdge: Towards Deep Graph Convolutional Networks on Node Classification.** ICLR 2020. [paper](https://openreview.net/pdf?id=Hkx1qkrKPr)
+
+	*Yu Rong, Wenbing Huang, Tingyang Xu, Junzhou Huang.*
+
+1. **Directional Message Passing for Molecular Graphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=B1eWbxStPH)
+
+	*Johannes Klicpera, Janek Groß, Stephan Günnemann.*
+
+1. **DeepSphere: a graph-based spherical CNN.** ICLR 2020. [paper](https://openreview.net/pdf?id=B1e3OlStPB)
+
+	*Michaël Defferrard, Martino Milani, Frédérick Gusset, Nathanaël Perraudin.*
+
+1. **Geom-GCN: Geometric Graph Convolutional Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=S1e2agrFvS)
+
+	*Hongbin Pei, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang.*
+
+1. **Curvature Graph Network.** ICLR 2020. [paper](https://openreview.net/pdf?id=BylEqnVFDB)
+
+	*Ze Ye, Kin Sum Liu, Tengfei Ma, Jie Gao, Chao Chen.*
+
+1. **Measuring and Improving the Use of Graph Information in Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=rkeIIkHKvS)
+
+	*Yifan Hou, Jian Zhang, James Cheng, Kaili Ma, Richard T. B. Ma, Hongzhi Chen, Ming-Chang Yang.*
+
+1. **Memory-Based Graph Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1laNeBYPB)
+
+	*Amir Hosein Khasahmadi, Kaveh Hassani, Parsa Moradi, Leo Lee, Quaid Morris.*
+
+1. **Pruned Graph Scattering Transforms.** ICLR 2020. [paper](https://openreview.net/pdf?id=rJeg7TEYwB)
+
+	*Vassilis N. Ioannidis, Siheng Chen, Georgios B. Giannakis.*
+
+1. **Neural Execution of Graph Algorithms.** ICLR 2020. [paper](https://openreview.net/pdf?id=SkgKO0EtvS)
+
+	*Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell.*
+
+1. **GraphSAINT: Graph Sampling Based Inductive Learning Method.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJe8pkHFwS)
+
+	*Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna.*
+
+1. **Graph inference learning for semi-supervised classification.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1evOhEKvH)
+
+	*Chunyan Xu, Zhen Cui, Xiaobin Hong, Tong Zhang, Jian Yang, Wei Liu.*
+
      </details>
 ### [Graph Types](#content)
 1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
@@ -468,6 +525,18 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Xiaoxue Li, Yanmin Shang, Yanan Cao, Yangxi Li, Jianlong Tan, Yanbing Liu.*    
 
+1. **Composition-based Multi-Relational Graph Convolutional Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=BylA_C4tPr)
+
+	*Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar.*
+
+1. **Inductive representation learning on temporal graphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=rJeW1yHYwH)
+
+	*da Xu, chuanwei ruan, evren korpeoglu, sushant kumar, kannan achan.*
+
+1. **Hyper-SAGNN: a self-attention based graph neural network for hypergraphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=ryeHuJBtPH)
+
+	*Ruochi Zhang, Yuesong Zou, Jian Ma.*
+
 ### [Pooling Methods](#content)
 1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
 
@@ -504,6 +573,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Hierarchical Graph Pooling with Structure Learning.** AAAI 2020. [paper](https://arxiv.org/abs/1911.05954)
 
 	*Zhen Zhang, Jiajun Bu, Martin Ester, Jianfeng Zhang, Chengwei Yao, Zhi Yu, Can Wang.*
+
+1. **StructPool: Structured Graph Pooling via Conditional Random Fields.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJxg_hVtwH)
+
+	*Hao Yuan, Shuiwang Ji.*
 
 ### [Analysis](#content)
 1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
@@ -574,6 +647,22 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Nima Dehmamy, Albert-Laszlo Barabasi, Rose Yu.*
 
+1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification.** ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr)
+
+	*Kenta Oono, Taiji Suzuki.*
+
+1. **What graph neural networks cannot learn: depth vs width.** ICLR 2020. [paper](https://openreview.net/pdf?id=B1l2bp4YwS)
+
+	*Andreas Loukas.*
+
+1. **The Logical Expressiveness of Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
+	*Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
+
+1. **On the Equivalence between Positional Node Embeddings and Structural Graph Representations.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJxzFySKwH)
+
+	*Balasubramaniam Srinivasan, Bruno Ribeiro.*
+
 ### [Efficiency](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
    
@@ -642,7 +731,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Graph Element Networks: adaptive, structured computation and memory.** ICML 2019. [paper](https://arxiv.org/pdf/1904.09019)
 
     *Ferran Alet, Adarsh K. Jeewajee, Maria Bauza, Alberto Rodriguez, Tomas Lozano-Perez, Leslie Pack Kaelbling.*
-    
+
+1. **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1gelyrtwH)
+
+	*Sungyong Seo, Chuizheng Meng, Yan Liu.*
+
 ### [Chemistry and Biology](#content)
 
 1. **Convolutional networks on graphs for learning molecular fingerprints.** NIPS 2015. [paper](https://arxiv.org/pdf/1509.09292.pdf)
@@ -758,6 +851,14 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ivana Balazevic, Carl Allen, Timothy Hospedales.*
 
+1. **Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning.** ICLR 2020. [paper](https://openreview.net/pdf?id=rkeuAhVKvB)
+
+	*Xiaoran Xu, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun, Zhi-Hong Deng.*
+
+1. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=rJg76kStwH)
+
+	*Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song.*
+
 ### [Recommender Systems](#content)
 
 1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
@@ -823,6 +924,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** AAAI 2020. [paper](https://arxiv.org/abs/2001.10167)
 
 	*Lei Chen, Le Wu, Richang Hong, Kun Zhang, Meng Wang.*
+
+1. **Inductive Matrix Completion Based on Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
+
+	*Muhan Zhang, Yixin Chen.*
 
 ### [Computer Vision](#content)
 1. **Graph Neural Networks for Object Localization.** ECAI 2006. [paper](http://ebooks.iospress.nl/volumearticle/2775)
@@ -1102,6 +1207,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN.** AAAI 2020. [paper](https://arxiv.org/abs/2002.07417)
 
 	*Hang Xu, Linpu Fang, Xiaodan Liang, Wenxiong Kang, Zhenguo Li.*
+
+1. **Abstract Diagrammatic Reasoning with Multiplex Graph Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=ByxQB1BKwH)
+
+	*Duo Wang, Mateja Jamnik, Pietro Lio.*
+
 </details>
 
 ### [Natural Language Processing](#content)
@@ -1379,6 +1489,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li.*
 
+1. **GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation.** ICLR 2020. [paper](https://openreview.net/pdf?id=S1esMkHYPr)
+
+	*Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang.*
+
 ### [Combinatorial Optimization](#content)
 
 1. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.** NeurIPS 2018. [paper](http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf)
@@ -1489,6 +1603,14 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Hao Peng, Jianxin Li,  Qiran Gong, Yuanxing Ning, Senzhang Wang, Lifang He.*
 
+1. **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1lfF2NYvH)
+
+	*Fan-Yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang.*
+
+1. **A Fair Comparison of Graph Neural Networks for Graph Classification.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygDF6NFPB)
+
+	*Federico Errica, Marco Podda, Davide Bacciu, Alessio Micheli.*
+
 ### [Reinforcement Learning](#content)
 
 1. **NerveNet: Learning Structured Policy with Graph Neural Networks.** ICLR 2018. [paper](https://openreview.net/pdf?id=S1sqHMZCb)
@@ -1522,6 +1644,18 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Multi-Agent Game Abstraction via Graph Attention Neural Network.** AAAI 2020. [paper](https://arxiv.org/abs/1911.10715)
 
 	*Yong Liu, Weixun Wang, Yujing Hu, Jianye Hao, Xingguo Chen, Yang Gao.*
+
+1. **Graph Convolutional Reinforcement Learning.** ICLR 2020. [paper](https://openreview.net/pdf?id=HkxdQkSYDB)
+
+	*Jiechuan Jiang, Chen Dun, Tiejun Huang, Zongqing Lu.*
+
+1. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation.** ICLR 2020. [paper](https://openreview.net/pdf?id=HygnDhEtvr)
+
+	*Yu Chen, Lingfei Wu, Mohammed J. Zaki.*
+
+1. **Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=rkxDoJBYPB)
+
+	*Aditya Paliwal, Felix Gimeno, Vinod Nair, Yujia Li, Miles Lubin, Pushmeet Kohli, Oriol Vinyals.*
 
 ### [Traffic Network](#content)
 
@@ -1611,6 +1745,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Huaxiu Yao, Chuxu Zhang, Ying WEI, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh Chawla, Zhenhui Li.*
 
+1. **FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES.** ICLR 2020. [paper](https://openreview.net/pdf?id=Bkeeca4Kvr)
+
+	*Jatin Chauhan, Deepak Nathani, Manohar Kaul.*
+
 ### [Program Representation](#content)
 
 1. **Learning to Represent Programs with Graphs.** ICLR 2018. [paper](https://arxiv.org/abs/1711.00740)
@@ -1624,6 +1762,14 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5389)
 
 	*Yaqin Zhou, Shangqing Liu, Jingkai Siow, Xiaoning Du, Yang Liu.*
+
+1. **LambdaNet: Probabilistic Type Inference using Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=Hkx6hANtwH)
+
+	*Jiayi Wei, Maruth Goyal, Greg Durrett, Isil Dillig.*
+
+1. **HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJeqs6EFvB)
+
+	*Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang.*
 
 ### [Social Network](#content)
 
@@ -1662,3 +1808,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks.** AAAI 2020. [paper](https://arxiv.org/abs/2001.06362)
 
 	*Tian Bian, Xi Xiao, Tingyang Xu, Peilin Zhao, Wenbing Huang, Yu Rong, Junzhou Huang.*
+
+### [Graph Matching](#content)
+
+1. **Deep Graph Matching Consensus.** ICLR 2020. [paper](https://openreview.net/pdf?id=HyeJf1HKvS)
+
+	*Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.*
+
