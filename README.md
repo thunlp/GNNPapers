@@ -56,6 +56,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 <tr>
     <td>&emsp;<a href="#graph-matching">3.17 Graph Matching</a></td>
     <td>&ensp;</td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#computer-networks">3.18 Computer Networks</a></td>
+    <td>&ensp;</td>
 </tr> 
 </table>
 
@@ -1815,3 +1819,9 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.*
 
+
+### [Computer Networks](#content)
+
+1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
+
+    *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
