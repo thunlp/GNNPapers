@@ -108,7 +108,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 ## [Models](#content)   
 
 ### [Basic Models](#content)
-1. **Supervised Neural Networks for the Classification of Structures.** arxiv 2020. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
+1. **Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
 
     *Alessandro Sperduti and Antonina Starita.*
 
