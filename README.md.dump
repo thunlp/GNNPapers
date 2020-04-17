@@ -138,7 +138,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     
 1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.** NIPS 2016. [paper](http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf)
 
-    *Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.*
+    *Micha毛l Defferrard, Xavier Bresson, Pierre Vandergheynst.*
 
 1. **Diffusion-Convolutional Neural Networks.** NIPS 2016. [paper](https://arxiv.org/pdf/1511.02136.pdf)
 
@@ -166,7 +166,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     
 1. **Geometric deep learning on graphs and manifolds using mixture model cnns.** CVPR 2017. [paper](https://arxiv.org/pdf/1611.08402.pdf)
 
-    *Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodolà, Jan Svoboda, Michael M. Bronstein.*
+    *Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodol脿, Jan Svoboda, Michael M. Bronstein.*
     
 1. **Graph Attention Networks.** ICLR 2018. [paper](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)
 
@@ -193,7 +193,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 21. **Bayesian Semi-supervised Learning with Graph Gaussian Processes.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1809.04379)
 
-    *Yin Cheng Ng, Nicolò Colombo, Ricardo Silva.*
+    *Yin Cheng Ng, Nicol貌 Colombo, Ricardo Silva.*
 
 22. **Adaptive Graph Convolutional Neural Networks.** AAAI 2018. [paper](https://arxiv.org/pdf/1801.03226.pdf)
 
@@ -221,11 +221,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Deep Graph Infomax.** ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
 
-    *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.*
+    *Petar Veli膷kovi膰, William Fedus, William L. Hamilton, Pietro Li貌, Yoshua Bengio, R Devon Hjelm.*
     
 1. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1gL-2A9Ym)
 
-    *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.*
+    *Johannes Klicpera, Aleksandar Bojchevski, Stephan G眉nnemann.*
 
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ)
 
@@ -301,7 +301,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Bayesian graph convolutional neural networks for semi-supervised classification.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.11103.pdf)
 
-    *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz Üstebay.*
+    *Yingxue Zhang, Soumyasundar Pal, Mark Coates, Deniz 脺stebay.*
     
 1. **GeniePath: Graph Neural Networks with Adaptive Receptive Paths.** AAAI 2019. [paper](https://arxiv.org/pdf/1802.00910.pdf)
 
@@ -353,7 +353,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Hyperbolic Graph Convolutional Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2699)
 
-	*Ines Chami, Zhitao Ying, Christopher Ré, Jure Leskovec.*
+	*Ines Chami, Zhitao Ying, Christopher R茅, Jure Leskovec.*
 
 1. **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-3077)
 
@@ -361,7 +361,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **SNEQ: Semi-supervised Attributed Network Embedding with Attention-based Quantisation.** AAAI 2020. [paper](http://users.monash.edu/~yli/assets/pdf/sneq-aaai-20.pdf)
 
-	*Tao He, Lianli Gao, Jingkuan Song, Xin Wang, Kejie Huang, Yuan-­‐Fang Li.*
+	*Tao He, Lianli Gao, Jingkuan Song, Xin Wang, Kejie Huang, Yuan-颅鈥怓ang Li.*
 
 1. **Going Deep: Graph Convolutional Ladder-Shape Networks.** AAAI 2020. [paper](https://shiruipan.github.io/publication/aaai-2020-hu/)
 
@@ -369,7 +369,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Co-GCN for Multi-View Semi-Supervised Learning.** AAAI 2020. [paper]()
 
-	*Shu Li, Wen-­‐Tao Li, Wei Wang.*
+	*Shu Li, Wen-颅鈥怲ao Li, Wei Wang.*
 
 1. **Graph Representation Learning via Ladder Gamma Variational Autoencoders.** AAAI 2020. [paper]()
 
@@ -407,15 +407,15 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ekagra Ranjan, Soumya Sanyal, Partha Pratim Talukdar.*
 
-1. **Multi‐Stage Self­‐Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes.** AAAI 2020. [paper](https://zhouchenlin.github.io/Publications/2020-AAAI-M3S.pdf)
+1. **Multi鈥怱tage Self颅鈥怱upervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes.** AAAI 2020. [paper](https://zhouchenlin.github.io/Publications/2020-AAAI-M3S.pdf)
 
 	*Ke Sun, Zhouchen Lin, Zhanxing Zhu.*
 
-1. **Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-­‐Supervised Learning.** AAAI 2020. [paper]()
+1. **Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-颅鈥怱upervised Learning.** AAAI 2020. [paper]()
 
 	*Binyuan Hui,  Pengfei Zhu, Qinghua, Hu.*
 
-1. **A Multi­‐Scale Approach for Graph Link Prediction.** AAAI 2020. [paper]()
+1. **A Multi颅鈥怱cale Approach for Graph Link Prediction.** AAAI 2020. [paper]()
 
 	*Lei Cai, Shuiwang Ji.*
 
@@ -433,11 +433,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Directional Message Passing for Molecular Graphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=B1eWbxStPH)
 
-	*Johannes Klicpera, Janek Groß, Stephan Günnemann.*
+	*Johannes Klicpera, Janek Gro脽, Stephan G眉nnemann.*
 
 1. **DeepSphere: a graph-based spherical CNN.** ICLR 2020. [paper](https://openreview.net/pdf?id=B1e3OlStPB)
 
-	*Michaël Defferrard, Martino Milani, Frédérick Gusset, Nathanaël Perraudin.*
+	*Micha毛l Defferrard, Martino Milani, Fr茅d茅rick Gusset, Nathana毛l Perraudin.*
 
 1. **Geom-GCN: Geometric Graph Convolutional Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=S1e2agrFvS)
 
@@ -461,7 +461,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Neural Execution of Graph Algorithms.** ICLR 2020. [paper](https://openreview.net/pdf?id=SkgKO0EtvS)
 
-	*Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell.*
+	*Petar Veli膷kovi膰, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell.*
 
 1. **GraphSAINT: Graph Sampling Based Inductive Learning Method.** ICLR 2020. [paper](https://openreview.net/pdf?id=BJe8pkHFwS)
 
@@ -473,7 +473,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **SGAS: Sequential Greedy Architecture Search.** CVPR 2020. [paper](https://arxiv.org/abs/1912.00195)
 
-	*Guohao Li, Guocheng Qian, Itzel C. Delgadillo, Matthias Müller, Ali Thabet, Bernard Ghanem.*
+	*Guohao Li, Guocheng Qian, Itzel C. Delgadillo, Matthias M眉ller, Ali Thabet, Bernard Ghanem.*
 
      </details>
 ### [Graph Types](#content)
@@ -580,7 +580,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Diffusion Improves Graph Learning.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/9490-diffusion-improves-graph-learning)
 
-	*Johannes Klicpera, Stefan Weißenberger, Stephan Günnemann.*
+	*Johannes Klicpera, Stefan Wei脽enberger, Stephan G眉nnemann.*
 
 1. **Hierarchical Graph Pooling with Structure Learning.** AAAI 2020. [paper](https://arxiv.org/abs/1911.05954)
 
@@ -629,7 +629,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Can GCNs Go as Deep as CNNs?** ICCV 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf)
 
-    *Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem.*
+    *Guohao Li, Matthias M眉ller, Ali Thabet, Bernard Ghanem.*
 
 1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1810.02244.pdf)    
 
@@ -645,7 +645,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Universal Invariant and Equivariant Graph Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-3832)
 
-	*Nicolas Keriven, Gabriel Peyré.*
+	*Nicolas Keriven, Gabriel Peyr茅.*
 
 1. **Understanding Attention and Generalization in Graph Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2372)
 
@@ -669,7 +669,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **The Logical Expressiveness of Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
 
-	*Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
+	*Pablo Barcel贸, Egor V. Kostylev, Mikael Monet, Jorge P茅rez, Juan Reutter, Juan Pablo Silva.*
 
 1. **On the Equivalence between Positional Node Embeddings and Structural Graph Representations.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJxzFySKwH)
 
@@ -722,7 +722,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     
 1. **Visual Interaction Networks: Learning a Physics Simulator from Video.** NIPS 2017. [paper](http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf)
 
-    *Nicholas Watters, Andrea Tacchetti, Théophane Weber, Razvan Pascanu, Peter Battaglia, Daniel Zoran.* 
+    *Nicholas Watters, Andrea Tacchetti, Th茅ophane Weber, Razvan Pascanu, Peter Battaglia, Daniel Zoran.* 
 
 1. **Graph networks as learnable physics engines for inference and control.** ICML 2018. [paper](https://arxiv.org/pdf/1806.01242.pdf)
 
@@ -752,7 +752,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Convolutional networks on graphs for learning molecular fingerprints.** NIPS 2015. [paper](https://arxiv.org/pdf/1509.09292.pdf)
 
-    *David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, Ryan P. Adams.* 
+    *David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael G贸mez-Bombarelli, Timothy Hirzel, Al谩n Aspuru-Guzik, Ryan P. Adams.* 
 
 1. **Molecular Graph Convolutions: Moving Beyond Fingerprints.** Journal of computer-aided molecular design 2016. [paper](https://arxiv.org/pdf/1603.00856.pdf)
 
@@ -804,7 +804,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **A Generative Model For Electron Paths.** ICLR 2019. [paper](https://openreview.net/pdf?id=r1x4BnCqKX)
 
-    *John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, José Miguel Hernández-Lobato.*
+    *John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, Jos茅 Miguel Hern谩ndez-Lobato.*
 
 1. **Retrosynthesis Prediction with Conditional Graph Logic Network.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-4761)
 
@@ -825,7 +825,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Representation learning for visual-relational knowledge graphs.** arxiv 2017. [paper](https://arxiv.org/pdf/1709.02314.pdf)
 
-    *Daniel Oñoro-Rubio, Mathias Niepert, Alberto García-Durán, Roberto González, Roberto J. López-Sastre.*
+    *Daniel O帽oro-Rubio, Mathias Niepert, Alberto Garc铆a-Dur谩n, Roberto Gonz谩lez, Roberto J. L贸pez-Sastre.*
     
 1. **End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.04441.pdf)
 
@@ -859,7 +859,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Kun Xu, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu.*
 
-1. **Multi-relational Poincaré Graph Embeddings.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2511)
+1. **Multi-relational Poincar茅 Graph Embeddings.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2511)
 
 	*Ivana Balazevic, Carl Allen, Timothy Hospedales.*
 
@@ -1160,11 +1160,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Edward J. Smith, Scott Fujimoto, Adriana Romero, David Meger.*
 
-1. **Learning Cross­‐modal Context Graph Networks for Visual Grounding.** AAAI 2020. [paper](https://arxiv.org/abs/1911.09042)
+1. **Learning Cross颅鈥恗odal Context Graph Networks for Visual Grounding.** AAAI 2020. [paper](https://arxiv.org/abs/1911.09042)
 
 	*Yongfei Liu, Bo Wan, Xiaodan Zhu, Xuming He.*
 
-1. **Zero­‐Shot Sketch-based Image Retrieval via Graph Convolution Network.** AAAI 2020. [paper]()
+1. **Zero颅鈥怱hot Sketch-based Image Retrieval via Graph Convolution Network.** AAAI 2020. [paper]()
 
 	*Zhaolong Zhang, Yuejie Zhang, Rui Feng, Tao Zhang, Weiguo Fan.*
 
@@ -1172,7 +1172,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ao Luo, Fan Yang, Xin Li, Dong Nie, Zhicheng Jiao, Shangchen Zhou, Hong Cheng.*
 
-1. **Learning Graph Convolutional Network for Skeleton-­‐based Human Action Recognition by Neural Searching.** AAAI 2020. [paper](https://arxiv.org/abs/1911.04131)
+1. **Learning Graph Convolutional Network for Skeleton-颅鈥恇ased Human Action Recognition by Neural Searching.** AAAI 2020. [paper](https://arxiv.org/abs/1911.04131)
 
 	*Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao.*
 
@@ -1180,7 +1180,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Uttaran Bhattacharya, Trisha Mittal, Rohan Chandra, Tanmay Randhavane, Aniket Bera, Dinesh Manocha.*
 
-1. **Relation‐Aware Pedestrian Attribute Recognition with Graph Convolutional Networks.** AAAI 2020. [paper]()
+1. **Relation鈥怉ware Pedestrian Attribute Recognition with Graph Convolutional Networks.** AAAI 2020. [paper]()
 
 	*Zichang Tan, Yang Yang, Jun Wan, Stan Li.*
 
@@ -1188,7 +1188,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Mahmoud Khademi, Oliver Schulte.*
 
-1. **Zero-­‐shot Ingredient Recognition by Multi-­‐Relational Graph Convolutional Network.** AAAI 2020. [paper](http://www.liangmingpan.com/files/publications/AAAI20_Paper.pdf)
+1. **Zero-颅鈥恠hot Ingredient Recognition by Multi-颅鈥怰elational Graph Convolutional Network.** AAAI 2020. [paper](http://www.liangmingpan.com/files/publications/AAAI20_Paper.pdf)
 
 	*Jingjing Chen, Liang-Ming Pan, Zhi-Peng Wei, Xiang Wang, Chong-Wah Ngo,Tat-Seng Chua.*
 
@@ -1422,7 +1422,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Hongyang Gao, Yongjun Chen, Shuiwang Ji.*
 
-1. **Graph­‐based Transformer with Cross-candidate Verification for Semantic Parsing.** AAAI 2020. [paper]()
+1. **Graph颅鈥恇ased Transformer with Cross-candidate Verification for Semantic Parsing.** AAAI 2020. [paper]()
 
 	*Bo Shao, Yeyun Gong, Weizhen Qi, Guihong Cao, Jianshu Ji, Xiaola Lin.*
 
@@ -1434,7 +1434,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Deng Cai, Wai Lam.*
 
-1. **Multi-­‐label Patent Categorization with Non-­‐local Attention-­‐based Graph Convolutional Network.** AAAI 2020. [paper]()
+1. **Multi-颅鈥恖abel Patent Categorization with Non-颅鈥恖ocal Attention-颅鈥恇ased Graph Convolutional Network.** AAAI 2020. [paper]()
 
 	*Pingjie Tang, Meng Jiang, Bryan (Ning) Xia, Jed Pitera, Jeff Welser, Nitesh Chawla.*
 
@@ -1479,7 +1479,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **NetGAN: Generating Graphs via Random Walks.** ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
 
-    *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.*
+    *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Z眉gner, Stephan G眉nnemann.*
 
 1. **Graphite: Iterative Generative Modeling of Graphs.** ICML 2019. [paper](https://arxiv.org/pdf/1803.10459)
 
@@ -1513,7 +1513,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Learning a SAT Solver from Single-Bit Supervision.** ICLR 2019. [paper](https://arxiv.org/abs/1802.03685)
 
-    *Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, David L. Dill.*
+    *Daniel Selsam, Matthew Lamm, Benedikt B眉nz, Percy Liang, Leonardo de Moura, David L. Dill.*
 
 1. **A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks.** PADL 2017. [paper](https://www.padl.ws/papers/Paper%2017.pdf)
 
@@ -1542,7 +1542,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 ### [Adversarial Attack](#content)
 1. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
 
-    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*
+    *Daniel Z眉gner, Amir Akbarnejad, Stephan G眉nnemann.*
 
 1. **Adversarial Attack on Graph Structured Data.** ICML 2018. [paper](https://arxiv.org/abs/1806.02371)
 
@@ -1562,15 +1562,15 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Certifiable Robustness and Robust Training for Graph Convolutional Networks.** KDD 2019. [paper](https://arxiv.org/pdf/1906.12269)
 
-    *Daniel Zügner, Stephan Günnemann.*
+    *Daniel Z眉gner, Stephan G眉nnemann.*
 
 1. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** ICML 2019. [paper](https://arxiv.org/pdf/1809.01093)
 
-    *Aleksandar Bojchevski, Stephan Günnemann.*
+    *Aleksandar Bojchevski, Stephan G眉nnemann.*
 
 1. **Adversarial Attacks on Graph Neural Networks via Meta Learning.** ICLR 2019. [paper]()
 
-    *Daniel Zügner, Stephan Günnemann.*
+    *Daniel Z眉gner, Stephan G眉nnemann.*
 
 1. **PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks.** ICLR 2019. [paper](https://openreview.net/pdf?id=Sk4jFoA9K7)
 
@@ -1578,7 +1578,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Certifiable Robustness to Graph Perturbations.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-4514)
 
-	*Aleksandar Bojchevski, Stephan Günnemann.*
+	*Aleksandar Bojchevski, Stephan G眉nnemann.*
 
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5182)
 
@@ -1635,7 +1635,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     
 1. **Action Schema Networks: Generalised Policies with Deep Learning.** AAAI 2018. [paper](https://arxiv.org/abs/1709.04271)
 
-    *Sam Toyer, Felipe Trevizan, Sylvie Thiébaux, Lexing Xie.*
+    *Sam Toyer, Felipe Trevizan, Sylvie Thi茅baux, Lexing Xie.*
 
 1. **Relational inductive bias for physical construction in humans and machines.** CogSci 2018. [paper](https://arxiv.org/abs/1806.01203)
 
@@ -1671,7 +1671,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 ### [Traffic Network](#content)
 
-1. **Spatiotemporal Multi‐Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
+1. **Spatiotemporal Multi鈥怗raph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf)
 
     *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.*
     
@@ -1713,7 +1713,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-75)
 
-	*Vineet Kosaraju, Amir Sadeghian, Roberto Martín-Martín, Ian Reid, Hamid Rezatofighi, Silvio Savarese.*
+	*Vineet Kosaraju, Amir Sadeghian, Roberto Mart铆n-Mart铆n, Ian Reid, Hamid Rezatofighi, Silvio Savarese.*
 
 1. **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/abs/1911.08415)
 
@@ -1753,11 +1753,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
 
-1. **Attribute Propagation Network for Graph Zero-­shot Learning.** AAAI 2020. [paper]()
+1. **Attribute Propagation Network for Graph Zero-颅shot Learning.** AAAI 2020. [paper]()
 
 	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
 
-1. **Graph Few-­‐shot Learning via Knowledge Transfer.** AAAI 2020. [paper](https://arxiv.org/abs/1910.03053)
+1. **Graph Few-颅鈥恠hot Learning via Knowledge Transfer.** AAAI 2020. [paper](https://arxiv.org/abs/1910.03053)
 
 	*Huaxiu Yao, Chuxu Zhang, Ying WEI, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh Chawla, Zhenhui Li.*
 
@@ -1836,4 +1836,4 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
-    *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+    *Krzysztof Rusek, Jos茅 Su谩rez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
