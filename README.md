@@ -55,12 +55,8 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 </tr> 
 <tr>
     <td>&emsp;<a href="#graph-matching">3.17 Graph Matching</a></td>
-    <td>&ensp;</td>
+    <td>&ensp;<a href="#computer-network">3.18 Computer Network</a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#computer-networks">3.18 Computer Networks</a></td>
-    <td>&ensp;</td>
-</tr> 
 </table>
 
 ## [Survey papers](#content)
@@ -104,9 +100,9 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
     
-1. **Benchmarking Graph Neural Networks** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
+1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
 
-    *Dwivedi, Vijay Prakash and Joshi, Chaitanya K. and Laurent, Thomas and Bengio, Yoshua and Bresson, Xavier*
+    *Dwivedi, Vijay Prakash and Joshi, Chaitanya K. and Laurent, Thomas and Bengio, Yoshua and Bresson, Xavier.*
 
 
 ## [Models](#content)   
@@ -1836,7 +1832,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 	*Matthias Fey, Jan E. Lenssen, Christopher Morris, Jonathan Masci, Nils M. Kriege.*
 
 
-### [Computer Networks](#content)
+### [Computer Network](#content)
 
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
