@@ -1710,6 +1710,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://shiruipan.github.io/pdf/IJCAI-19-graph-wavenet.pdf)
 
     *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang.*
+    
+1. **Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.10516.pdf)
+
+    *Weijia Zhang, Hao Liu, Yanchi Liu, Jingbo Zhou, Hui Xiong.*
 
 1. **Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-75)
 
