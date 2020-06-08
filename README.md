@@ -704,6 +704,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Difan Zou, Ziniu Hu, Yewen Wang, Song Jiang, Yizhou Sun, Quanquan Gu.*
 
+1. **GraphSAINT: Graph Sampling Based Inductive Learning Method.** ICLR 2020. [paper](https://arxiv.org/pdf/1907.04931.pdf) [code](https://github.com/GraphSAINT/GraphSAINT)
+
+    *Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna.*
+
+
 ## [Applications](#content)
 
 ### [Physics](#content)
