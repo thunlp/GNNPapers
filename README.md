@@ -598,6 +598,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Hao Yuan, Shuiwang Ji.*
 
+1. **Spectral Clustering with Graph Neural Networks for Graph Pooling.** ICML 2020. [paper](https://arxiv.org/abs/1907.00481)
+
+	*Filippo Maria Bianchi, Daniele Grattarola, Cesare Alippi.*
+
 ### [Analysis](#content)
 1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
 
