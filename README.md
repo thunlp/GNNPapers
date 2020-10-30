@@ -720,6 +720,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna.*
 
+1. **Scalable Graph Convolutional Network Based Link Prediction on a Distributed Graph Database Server.** IEEE CLOUD 2020. [paper](https://github.com/miyurud/miyurud.github.io/blob/master/papers/2020/IEEE_CLOUD_2020_JasmineGraph-web.pdf) [code](https://github.com/miyurud/jasminegraph)
+
+    *Anuradha Karunarathna, Dinika Senarath, Shalika Madhushanki, Chinthaka Weerakkody, Miyuru Dayarathna, Sanath Jayasena, Toyotaro Suzumura.*
+
 
 ## [Applications](#content)
 
