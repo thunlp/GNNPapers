@@ -659,10 +659,6 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Nicolas Keriven, Gabriel Peyré.*
 
-1. **Understanding Attention and Generalization in Graph Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2372)
-
-	*Boris Knyazev, Graham W Taylor, Mohamed Amer.*
-
 1. **On the equivalence between graph isomorphism testing and function approximation with GNNs.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-9347)
 
 	*Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
