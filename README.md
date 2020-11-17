@@ -483,7 +483,12 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Guohao Li, Guocheng Qian, Itzel C. Delgadillo, Matthias Müller, Ali Thabet, Bernard Ghanem.*
 
+1. **Adaptive Propagation Graph Convolutional Network.** IEEE TNNLS 2020. [paper](https://ieeexplore.ieee.org/document/9206045)
+
+	*Indro Spinelli, Simone Scardapane, Aurelio Uncini.*
+
      </details>
+
 ### [Graph Types](#content)
 1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
 
