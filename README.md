@@ -1787,6 +1787,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Jatin Chauhan, Deepak Nathani, Manohar Kaul.*
 
+1. **Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction.** NeurIPS 2020. [paper](https://arxiv.org/abs/2006.06648)
+
+	*Jinheon Baek, Dong Bok Lee, Sung Ju Hwang.*
+
 ### [Program Representation](#content)
 
 1. **Learning to Represent Programs with Graphs.** ICLR 2018. [paper](https://arxiv.org/abs/1711.00740)
