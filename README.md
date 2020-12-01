@@ -1561,7 +1561,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ryoma Sato, Makoto Yamada, Hisashi Kashima.*
 
-1. **Automatic Virtual Network Embedding: A Deep Reinforcement Learning Approach with Graph Convolutional Networks.** INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9060910.pdf)
+1. **Automatic Virtual Network Embedding: A Deep Reinforcement Learning Approach with Graph Convolutional Networks.** JASC 2020. [paper](https://ieeexplore.ieee.org/document/9060910.pdf)
 
 	*Zhongxia Yan, Jingguo Ge, Yulei Wu, Liangxiong Li, Tong Li.*
 
