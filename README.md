@@ -1567,7 +1567,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Combinatorial Optimization by Graph Pointer Networks and Hierarchical Reinforcement Learning.** arXiv 2019. [paper](https://arxiv.org/pdf/1911.04936.pdf)
 
-	*Qiang Mb, Suwen Ge, Danyang He, Darshan Thaker, Iddo Drori.*
+	*Qiang Ma, Suwen Ge, Danyang He, Darshan Thaker, Iddo Drori.*
 
 ### [Adversarial Attack](#content)
 1. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [paper](http://delivery.acm.org/10.1145/3230000/3220078/p2847-zugner.pdf?ip=101.5.139.169&id=3220078&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545706391_e7484be677293ffb5f18b39ce84a0df9)
