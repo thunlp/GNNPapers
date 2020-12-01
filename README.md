@@ -1561,9 +1561,9 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ryoma Sato, Makoto Yamada, Hisashi Kashima.*
 
-1. **Learning to Solve NP-Complete Problems - A Graph Neural Network for Decision TSP.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf)
+1. **Automatic Virtual Network Embedding.** INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9060910.pdf)
 
-	*Marcelo O. R. Prates, Pedro H. C. Avelar, Henrique Lemos, Luis Lamb, Moshe Vardi.*
+	*Zhongxia Yan, Jingguo Ge, Yulei Wu, Liangxiong Li, Tong Li.*
 
 1. **Combinatorial Optimization by Graph Pointer Networks and Hierarchical Reinforcement Learning.** arXiv 2019. [paper](https://arxiv.org/pdf/1911.04936.pdf)
 
