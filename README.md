@@ -562,6 +562,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ruochi Zhang, Yuesong Zou, Jian Ma.*
 
+1. **Digraph Inception Convolutional Networks.** NeurIPS 2020. [paper](https://proceedings.neurips.cc//paper/2020/file/cffb6e2288a630c2a787a64ccc67097c-Paper.pdf)
+
+	*Zekun Tong, Yuxuan Liang, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim.*
+
 ### [Pooling Methods](#content)
 1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
 
