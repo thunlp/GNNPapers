@@ -112,6 +112,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Skarding, Joakim and Gabrys, Bogdan and Musial, Katarzyna.*
 
+1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/abs/2002.11867)
+
+    *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
+   
+
 
 ## [Models](#content)   
 
