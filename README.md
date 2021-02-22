@@ -620,6 +620,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Filippo Maria Bianchi, Daniele Grattarola, Cesare Alippi.*
 
+1. **Accurate Learning of Graph Representations with Graph Multiset Pooling.** ICLR 2021. [paper](https://openreview.net/pdf?id=JHcqXGaqiGn)
+
+	*Jinheon Baek, Minki Kang, Sung Ju Hwang.*
+
 ### [Analysis](#content)
 1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
 
