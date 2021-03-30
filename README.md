@@ -742,6 +742,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Anuradha Karunarathna, Dinika Senarath, Shalika Madhushanki, Chinthaka Weerakkody, Miyuru Dayarathna, Sanath Jayasena, Toyotaro Suzumura.*
 
+1. **Memory Efficient Graph Convolutional Networkbased Distributed Link Prediction.** IEEE Big Data 2020. [paper](https://raw.githubusercontent.com/miyurud/miyurud.github.io/master/papers/2020/IEEE_BigData_Workshop_2020_JasmineGraph_web.pdf) [code](https://github.com/miyurud/jasminegraph)
+
+    *Damitha Senevirathne, Isuru Wijesiri, Suchitha Dehigaspitiya, Miyuru Dayarathna, Sanath Jayasena, and Toyotaro Suzumura.*
+
 
 ## [Applications](#content)
 
