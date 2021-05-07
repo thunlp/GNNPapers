@@ -137,6 +137,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Franco Scarselli, Sweah Liang Yong, Marco Gori, Markus Hagenbuchner, Ah Chung Tsoi, Marco Maggini.*
 
+1. **Automatic Generation of Complementary Descriptors with Molecular Graph Networks.** J.Chem.Inf.Model. 2005. [paper](https://pubs.acs.org/doi/10.1021/ci049613b)
+
+    *Christian Merkwirth and Thomas Lengauer.*
+
 1. **Neural Network for Graphs: A Contextual Constructive Approach.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/abstract/document/4773279)
 
     *Alessio Micheli.*
