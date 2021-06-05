@@ -64,7 +64,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Zhiyuan Liu, Jie Zhou.* 
 
-1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
+1. **Graph Neural Networks: A Review of Methods and Applications.** AI Open 2021. [paper](https://doi.org/10.1016/j.aiopen.2021.01.001)
    
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
 
