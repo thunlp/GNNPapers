@@ -115,9 +115,15 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/abs/2002.11867)
 
     *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
-   
+    
+1. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020. [paper](https://arxiv.org/abs/2012.15445)
 
+    *Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji.*
 
+1. **Self-Supervised Learning of Graph Neural Networks: A unified view.** TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9764632)
+
+    *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
+    
 ## [Models](#content)   
 
 ### [Basic Models](#content)
