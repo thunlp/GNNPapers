@@ -1808,6 +1808,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
 
+1. **Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks** ICCV 2019. [paper](https://arxiv.org/pdf/2001.06807.pdf)
+
+    *Wenguan Wang, Xiankai Lu, Jianbing Shen, David Crandall, Ling Shao.*
+
 1. **Attribute Propagation Network for Graph Zero-­shot Learning.** AAAI 2020. [paper]()
 
 	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
