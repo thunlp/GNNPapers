@@ -18,7 +18,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 </tr>
 <tr>
     <td>&emsp;<a href="#efficiency">2.5 Efficiency</a></td>
-    <td></td>
+    <td>&emsp;<a href="#explainability">2.6 Explainability</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
 <tr>
@@ -64,7 +64,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Zhiyuan Liu, Jie Zhou.* 
 
-1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
+1. **Graph Neural Networks: A Review of Methods and Applications.** AI Open 2020. [paper](https://doi.org/10.1016/j.aiopen.2021.01.001)
    
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
 
@@ -115,9 +115,15 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/abs/2002.11867)
 
     *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
-   
+    
+1. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020. [paper](https://arxiv.org/abs/2012.15445)
 
+    *Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji.*
 
+1. **Self-Supervised Learning of Graph Neural Networks: A unified view.** TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9764632)
+
+    *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
+    
 ## [Models](#content)   
 
 ### [Basic Models](#content)
@@ -136,6 +142,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Graph Neural Networks for Ranking Web Pages.** WI 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/221158677_Graph_Neural_Networks_for_Ranking_Web_Pages/links/0c9605188cd5090ede000000/Graph-Neural-Networks-for-Ranking-Web-Pages.pdf)
 
     *Franco Scarselli, Sweah Liang Yong, Marco Gori, Markus Hagenbuchner, Ah Chung Tsoi, Marco Maggini.*
+
+1. **Automatic Generation of Complementary Descriptors with Molecular Graph Networks.** J.Chem.Inf.Model. 2005. [paper](https://pubs.acs.org/doi/10.1021/ci049613b)
+
+    *Christian Merkwirth and Thomas Lengauer.*
 
 1. **Neural Network for Graphs: A Contextual Constructive Approach.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/abstract/document/4773279)
 
@@ -574,6 +584,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Subgraph Neural Networks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/5bca8566db79f3788be9efd96c9ed70d-Abstract.html)
 
     *Emily Alsentzer, Samuel Finlayson, Michelle Li, Marinka Zitnik.*
+    
+1. **Dynamic Graph Convolutional Networks Using the Tensor M-Product.** SDM 2021. [paper](https://doi.org/10.1137/1.9781611976700.82)
+
+    *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha E. Kilmer, Haim Avron*
 
 ### [Pooling Methods](#content)
 1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
@@ -704,6 +718,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **On the Equivalence between Positional Node Embeddings and Structural Graph Representations.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJxzFySKwH)
 
 	*Balasubramaniam Srinivasan, Bruno Ribeiro.*
+	
+1. **Can Graph Neural Networks Count Substructures?** NeurIPS 2020. [paper](https://arxiv.org/pdf/2002.04025.pdf)
+
+	*Zhengdao Chen, Lei Chen, Soledad Villar, Joan Bruna.*
 
 ### [Efficiency](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
@@ -742,9 +760,53 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Anuradha Karunarathna, Dinika Senarath, Shalika Madhushanki, Chinthaka Weerakkody, Miyuru Dayarathna, Sanath Jayasena, Toyotaro Suzumura.*
 
+
 1. **Memory Efficient Graph Convolutional Networkbased Distributed Link Prediction.** IEEE Big Data 2020. [paper](https://raw.githubusercontent.com/miyurud/miyurud.github.io/master/papers/2020/IEEE_BigData_Workshop_2020_JasmineGraph_web.pdf) [code](https://github.com/miyurud/jasminegraph)
 
     *Damitha Senevirathne, Isuru Wijesiri, Suchitha Dehigaspitiya, Miyuru Dayarathna, Sanath Jayasena, and Toyotaro Suzumura.*
+
+
+### [Explainability](#content)
+
+1. **Explainability Techniques for Graph Convolutional Networks.** ICML 2019. [paper](https://arxiv.org/abs/1905.13686)
+
+    *Federico Baldassarre, Hossein Azizpour.*
+
+1. **GNNExplainer: Generating Explanations for Graph Neural Networks.** NeurIPS 2019. [paper](https://arxiv.org/abs/1903.03894)
+
+	*Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec.*
+
+1. **GCN-LRP Explanation: Exploring Latent Attention of Graph Convolutional Networks.** IJCNN 2020. [paper](https://ieeexplore.ieee.org/document/9207639)
+
+    *Jinlong Hu, Tenghui Li, Shoubin Dong.*
+
+1. **Parameterized Explainer for Graph Neural Network.** NeurIPS 2020. [paper](https://arxiv.org/abs/2011.04573)
+
+	*Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang.*
+
+1. **XGNN: Towards Model-Level Explanations of Graph Neural Networks.** KDD 2020. [paper](https://arxiv.org/abs/2006.02587)
+
+	*Hao Yuan, Jiliang Tang, Xia Hu, Shuiwang Ji.*
+
+1. **Contrastive Graph Neural Network Explanation.** ICML 2020. [paper](https://arxiv.org/abs/2010.13663)
+
+	*Lukas Faber, Amin K. Moghaddam, Roger Wattenhofer.*
+
+1. **Interpreting Graph Neural Networks for NLP With Differentiable Edge Maskin.** ICLR 2021. [paper](https://arxiv.org/abs/2010.00577)
+
+	*Michael Sejr Schlichtkrull, Nicola De Cao, Ivan Titov.*
+
+1. **On Explainability of Graph Neural Networks via Subgraph Explorations.** ICML 2021. [paper](https://arxiv.org/abs/2102.05152)
+
+	*Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji.*
+
+1. **Generative Causal Explanations for Graph Neural Networks.** ICML 2021. [paper](https://arxiv.org/abs/2104.06643)
+
+	*Wanyu Lin, Hao Lan, Baochun Li.*
+
+1. **GraphSVX: Shapley Value Explanations for Graph Neural Networks.** ECML PKDD 2021. [paper](https://arxiv.org/abs/2104.10482)
+
+	*Alexandre Duval, Fragkiskos D. Malliaros.*
 
 
 ## [Applications](#content)
@@ -1700,6 +1762,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Hanjun Dai, Yujia Li, Chenglong Wang, Rishabh Singh, Po-Sen Huang, Pushmeet Kohli.*
 
+1. **Graph Neural Networks and Reinforcement Learning for Behavior Generation in Semantic Environments.** IV 2020. [paper](https://arxiv.org/abs/2006.12576)
+
+	*Patrick Hart, Alois Knoll.*
+
 1. **Multi-Agent Game Abstraction via Graph Attention Neural Network.** AAAI 2020. [paper](https://arxiv.org/abs/1911.10715)
 
 	*Yong Liu, Weixun Wang, Yujing Hu, Jianye Hao, Xingguo Chen, Yang Gao.*
@@ -1800,6 +1866,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
 
+1. **Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks** ICCV 2019. [paper](https://arxiv.org/pdf/2001.06807.pdf)
+
+    *Wenguan Wang, Xiankai Lu, Jianbing Shen, David Crandall, Ling Shao.*
+
 1. **Attribute Propagation Network for Graph Zero-­shot Learning.** AAAI 2020. [paper]()
 
 	*LU LIU, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang.*
@@ -1892,3 +1962,5 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
+
