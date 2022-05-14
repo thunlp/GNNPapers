@@ -760,6 +760,12 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Anuradha Karunarathna, Dinika Senarath, Shalika Madhushanki, Chinthaka Weerakkody, Miyuru Dayarathna, Sanath Jayasena, Toyotaro Suzumura.*
 
+
+1. **Memory Efficient Graph Convolutional Networkbased Distributed Link Prediction.** IEEE Big Data 2020. [paper](https://raw.githubusercontent.com/miyurud/miyurud.github.io/master/papers/2020/IEEE_BigData_Workshop_2020_JasmineGraph_web.pdf) [code](https://github.com/miyurud/jasminegraph)
+
+    *Damitha Senevirathne, Isuru Wijesiri, Suchitha Dehigaspitiya, Miyuru Dayarathna, Sanath Jayasena, and Toyotaro Suzumura.*
+
+
 ### [Explainability](#content)
 
 1. **Explainability Techniques for Graph Convolutional Networks.** ICML 2019. [paper](https://arxiv.org/abs/1905.13686)
@@ -801,6 +807,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **GraphSVX: Shapley Value Explanations for Graph Neural Networks.** ECML PKDD 2021. [paper](https://arxiv.org/abs/2104.10482)
 
 	*Alexandre Duval, Fragkiskos D. Malliaros.*
+
 
 ## [Applications](#content)
 
