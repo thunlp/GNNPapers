@@ -704,6 +704,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **On the Equivalence between Positional Node Embeddings and Structural Graph Representations.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJxzFySKwH)
 
 	*Balasubramaniam Srinivasan, Bruno Ribeiro.*
+	
+1. **Can Graph Neural Networks Count Substructures?** NeurIPS 2020. [paper](https://arxiv.org/pdf/2002.04025.pdf)
+
+	*Zhengdao Chen, Lei Chen, Soledad Villar, Joan Bruna.*
 
 ### [Efficiency](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
