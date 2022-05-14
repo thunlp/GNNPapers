@@ -574,6 +574,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Subgraph Neural Networks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/5bca8566db79f3788be9efd96c9ed70d-Abstract.html)
 
     *Emily Alsentzer, Samuel Finlayson, Michelle Li, Marinka Zitnik.*
+    
+1. **Dynamic Graph Convolutional Networks Using the Tensor M-Product.** SDM 2021. [paper](https://doi.org/10.1137/1.9781611976700.82)
+
+    *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha E. Kilmer, Haim Avron*
 
 ### [Pooling Methods](#content)
 1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
