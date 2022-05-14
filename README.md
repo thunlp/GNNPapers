@@ -57,6 +57,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     <td>&emsp;<a href="#graph-matching">3.17 Graph Matching</a></td>
     <td>&ensp;<a href="#computer-network">3.18 Computer Network</a></td>
 </tr>
+<tr>
+    <td>&emsp;<a href="#explainability">3.19 Explainability </a></td>
+    <td></td>
+</tr>
 </table>
 
 ## [Survey papers](#content)
@@ -1908,3 +1912,45 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
+### [Explainability](#content)
+
+1. **Explainability Techniques for Graph Convolutional Networks.** ICML 2019. [paper](https://arxiv.org/abs/1905.13686)
+
+    *Federico Baldassarre, Hossein Azizpour.*
+
+1. **GNNExplainer: Generating Explanations for Graph Neural Networks.** NeurIPS 2019. [paper](https://arxiv.org/abs/1903.03894)
+
+	*Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec.*
+
+1. **GCN-LRP Explanation: Exploring Latent Attention of Graph Convolutional Networks.** IJCNN 2020. [paper](https://ieeexplore.ieee.org/document/9207639)
+
+    *Jinlong Hu, Tenghui Li, Shoubin Dong.*
+
+1. **Parameterized Explainer for Graph Neural Network.** NeurIPS 2020. [paper](https://arxiv.org/abs/2011.04573)
+
+	*Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang.*
+
+1. **XGNN: Towards Model-Level Explanations of Graph Neural Networks.** KDD 2020. [paper](https://arxiv.org/abs/2006.02587)
+
+	*Hao Yuan, Jiliang Tang, Xia Hu, Shuiwang Ji.*
+
+1. **Contrastive Graph Neural Network Explanation.** ICML 2020. [paper](https://arxiv.org/abs/2010.13663)
+
+	*Lukas Faber, Amin K. Moghaddam, Roger Wattenhofer.*
+
+1. **Interpreting Graph Neural Networks for NLP With Differentiable Edge Maskin.** ICLR 2021. [paper](https://arxiv.org/abs/2010.00577)
+
+	*Michael Sejr Schlichtkrull, Nicola De Cao, Ivan Titov.*
+
+1. **On Explainability of Graph Neural Networks via Subgraph Explorations.** ICML 2021. [paper](https://arxiv.org/abs/2102.05152)
+
+	*Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji.*
+
+1. **Generative Causal Explanations for Graph Neural Networks.** ICML 2021. [paper](https://arxiv.org/abs/2104.06643)
+
+	*Wanyu Lin, Hao Lan, Baochun Li.*
+
+1. **GraphSVX: Shapley Value Explanations for Graph Neural Networks.** ECML PKDD 2021. [paper](https://arxiv.org/abs/2104.10482)
+
+	*Alexandre Duval, Fragkiskos D. Malliaros.*
