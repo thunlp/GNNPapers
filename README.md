@@ -1700,6 +1700,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Hanjun Dai, Yujia Li, Chenglong Wang, Rishabh Singh, Po-Sen Huang, Pushmeet Kohli.*
 
+1. **Graph Neural Networks and Reinforcement Learning for Behavior Generation in Semantic Environments.** IV 2020. [paper](https://arxiv.org/abs/2006.12576)
+
+	*Patrick Hart, Alois Knoll.*
+
 1. **Multi-Agent Game Abstraction via Graph Attention Neural Network.** AAAI 2020. [paper](https://arxiv.org/abs/1911.10715)
 
 	*Yong Liu, Weixun Wang, Yujing Hu, Jianye Hao, Xingguo Chen, Yang Gao.*
