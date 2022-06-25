@@ -124,6 +124,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
     
+1. **A Bird's-Eye Tutorial of Graph Attention Architectures** ArXiv 2022. [paper](https://arxiv.org/pdf/2206.02849.pdf)
+
+    *Kaustubh Dhole, Carl Yang*
+    
 ## [Models](#content)   
 
 ### [Basic Models](#content)
