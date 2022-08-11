@@ -852,6 +852,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics.** ICLR 2020. [paper](https://openreview.net/pdf?id=r1gelyrtwH)
 
 	*Sungyong Seo, Chuizheng Meng, Yan Liu.*
+	
+1. **Graph Neural Network for Object Reconstruction in Liquid Argon Time Projection Chambers** ACAT 2021. [paper](https://arxiv.org/pdf/2103.06233.pdf)  
+  
+	*Jeremy Hewes, Adam Aurisano, Giuseppe Cerati, Jim Kowalkowski, Claire Lee, Wei-keng Liao, Alexandra Day, Ankit Agrawal, Maria Spiropulu, Jean-Roch Vlimant, Lindsey Gray, Thomas Klijnsma, Paolo Calafiura, Sean Conlon, Steve Farrell, Xiangyang Ju and Daniel Murnane.*	
 
 ### [Chemistry and Biology](#content)
 
