@@ -1959,8 +1959,14 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 ### [Computer Network](#content)
 
+1. **Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities.** IEEE NETWORK 2022. [paper](https://arxiv.org/pdf/2112.14792.pdf)
+
+    *José Suárez-Varela, Paul Almasan, Miquel Ferriol-Galmés, Krzysztof Rusek, Fabien Geyer, Xiangle Cheng, Xiang Shi, Shihan Xiao, Franco Scarselli, Albert Cabellos-Aparicio, Pere Barlet-Ros.*
+    
 1. **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.** ACM SOSR 2019. [paper](https://arxiv.org/pdf/1901.08113.pdf)
 
     *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+    
+
 
 
