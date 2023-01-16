@@ -124,6 +124,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
     
+1. **A Network Science perspective of Graph Convolutional Networks: A survey.** arxiv 2023. [paper](https://arxiv.org/abs/2301.04824)
+
+    *Jia, Mingshan and Gabrys, Bogdan and Musial, Katarzyna.*
+
 ## [Models](#content)   
 
 ### [Basic Models](#content)
