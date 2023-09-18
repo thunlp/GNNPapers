@@ -112,9 +112,9 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Skarding, Joakim and Gabrys, Bogdan and Musial, Katarzyna.*
 
-1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/abs/2002.11867)
+1. **Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks.** ACM Computing Survey 2023, to appear. [paper](https://arxiv.org/abs/2107.10234)
 
-    *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
+    *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Lingfei Wu, Charu Aggarwal, Chang-Tien Lu*
     
 1. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020. [paper](https://arxiv.org/abs/2012.15445)
 
