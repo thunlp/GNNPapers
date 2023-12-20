@@ -123,6 +123,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Self-Supervised Learning of Graph Neural Networks: A unified view.** TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9764632)
 
     *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
+
+1. **Attention-based Graph Neural Networks: A Survey.**  Artificial Intelligence Review 2023. [paper](https://link.springer.com/article/10.1007/s10462-023-10577-2)
+
+    *Chengcheng Sun, Chenhao Li, Xiang Lin, Tianji Zheng, Fanrong Meng, Xiaobin Rui, Zhixiao Wang.*
+
     
 ## [Models](#content)   
 
